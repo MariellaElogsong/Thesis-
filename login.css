@@ -1,0 +1,137 @@
+/* Global styles */
+* {
+    margin: 30;
+    padding: 30;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f6e3; /* Light beige background */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align content to the top */
+    height: 100vh;
+    padding-top: 20px; /* Add padding to make space for logo */
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end; /* Align content to the right */
+    align-items: flex-start;
+    width: 100%;
+    padding-right: 100px;
+}
+
+.signin-box {
+    background-color: white;
+    padding: 50px;
+    width: 400px; /* Increase width for better fit */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Align text to the left */
+}
+
+.logo-container {
+    position: absolute; /* Fix logo position */
+    top: 10px; /* Position logo from the top */
+    left: 20px; /* Position logo from the left */
+}
+
+.logo {
+    width: 400px; /* Adjust the size of your logo */
+    height: auto;
+}
+
+.welcome-title {
+    font-size: 1.8em;
+    color: #44a8ff; /* Blue color */
+    font-weight: bold;
+}
+
+.brand-name {
+    color: #ffb142; /* Orange color for the brand name */
+}
+
+.sign-in-title {
+    font-size: 1.5em;
+    color: #333; /* Dark grey for the title */
+    margin-top: 10px;
+}
+
+.social-login .btn {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.google-btn {
+    background-color: #4285F4; /* Google Blue */
+    color: white;
+}
+
+.facebook-btn {
+    background-color: #3b5998; /* Facebook Blue */
+    color: white;
+}
+
+.other-btn {
+    background-color: #6e7c7a; /* Greyish Green */
+    color: white;
+}
+
+.input-field {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 1em;
+    background-color: #f5f5f5; /* Light grey background for input */
+    color: #333; /* Dark grey text */
+}
+
+.forgot-password {
+    color: #44a8ff; /* Blue color for the forgot password link */
+    font-size: 0.9em;
+    text-decoration: none;
+    margin: 10px 0;
+    display: block;
+}
+
+.forgot-password:hover {
+    text-decoration: underline;
+}
+
+.sign-in-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #44a8ff; /* Blue color for the sign-in button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    cursor: pointer;
+}
+
+.sign-in-btn:hover {
+    background-color: #3a94e0; /* Darker blue on hover */
+}
+
+.signup-prompt {
+    margin-top: 20px;
+    font-size: 1em;
+}
+
+.signup-link {
+    color: #44a8ff; /* Blue color for the sign-up link */
+    text-decoration: none;
+}
+
+.signup-link:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,52 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;  /* Spread content from left to right */
+    align-items: center;  /* Vertically center content */
+    padding: 20px;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.menu-icon {
+    font-size: 24px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+.settings-icon,
+.notification-icon {
+    font-size: 24px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.settings-icon:hover,
+.notification-icon:hover {
+    color: #44a8ff;  /* Hover effect to change color */
+}

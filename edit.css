@@ -1,0 +1,86 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+}
+
+.form-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.highlight {
+    color: #44a8ff; /* Blue color for the highlighted text */
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Create two equal columns */
+    gap: 20px; /* Add gap between columns */
+    margin-bottom: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 1em;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+}
+
+input:focus {
+    border-color: #44a8ff; /* Focus color for input */
+    outline: none;
+}
+
+button {
+    background-color: #44a8ff;
+    color: white;
+    padding: 12px 20px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #3a94e0; /* Darker blue on hover */
+}
