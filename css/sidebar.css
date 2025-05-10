@@ -21,7 +21,51 @@ body {
   flex-direction: column;
   gap: 24px;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-  transition: width 0.3s ease;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.sidebar:hover,
+.sidebar.expanded {
+  width: 250px;
+  padding: 16px;
+}
+
+/* Show text elements when sidebar is expanded */
+.sidebar:hover .logo span,
+.sidebar.expanded .logo span {
+  display: block;
+  margin-left: 8px;
+}
+
+.sidebar:hover .menu-item span:not(.badge),
+.sidebar.expanded .menu-item span:not(.badge) {
+  display: block;
+  margin-left: 12px;
+}
+
+.sidebar:hover .user-info,
+.sidebar.expanded .user-info {
+  display: block;
+  margin-left: 12px;
+}
+
+.sidebar:hover .search input,
+.sidebar.expanded .search input {
+  padding-left: 32px;
+}
+
+/* Adjust menu items for expanded state */
+.sidebar:hover .menu-item,
+.sidebar.expanded .menu-item {
+  justify-content: flex-start;
+  padding: 12px 16px;
+}
+
+.sidebar:hover .badge,
+.sidebar.expanded .badge {
+  position: static;
+  margin-left: auto;
 }
 
 .sidebar.active {
