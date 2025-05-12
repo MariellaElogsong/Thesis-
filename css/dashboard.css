@@ -21,7 +21,44 @@ body {
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
 
+/* Header styles */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/* Small logo styles */
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.small-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+/* Header title styles */
+.header-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+
+/* Adjust main content to avoid overlapping with the header */
 .main-content {
-    flex: 1;
+    margin-top: 60px; /* Adjust based on header height */
     padding: 20px;
 }
