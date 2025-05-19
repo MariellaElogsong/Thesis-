@@ -33,14 +33,21 @@ body {
 }
 
 .logo-container {
-    position: absolute; /* Fix logo position */
-    top: 10px; /* Position logo from the top */
-    left: 20px; /* Position logo from the left */
+    position: absolute;
+    top: 80px;              /* 80px from the top */
+    left: 40px;             /* 40px from the left */
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    z-index: 10;
 }
 
 .logo {
-    width: 400px; /* Adjust the size of your logo */
+    width: 100px;           /* Default width for small screens */
+    max-width: 25vw;        /* Responsive: up to 25% of viewport width */
+    min-width: 60px;
     height: auto;
+    display: block;
 }
 
 .welcome-title {

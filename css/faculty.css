@@ -1,0 +1,25 @@
+.faculty-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+    padding: 32px;
+}
+.faculty-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 24px 16px;
+    text-align: center;
+}
+.avatar {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: #e0e0e0;
+    margin: 0 auto 16px auto;
+}
+h3 {
+    margin: 0;
+    font-size: 1.1em;
+    color: #333;
+}

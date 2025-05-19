@@ -50,7 +50,7 @@
         <!-- Logo on the left -->
         <div class="flex items-center space-x-3">
             
-            <h1 class="text-lg font-semibold text-gray-800">Dashboard</h1>
+            <h1 class="text-lg font-semibold text-gray-800">Create New</h1>
         </div>
         <!-- Optional right-side content -->
         <div>
@@ -63,7 +63,7 @@
         <aside
             class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden">
             <div>
-                <!-- Logo first -->
+                <!-- Logo centered and 15% width -->
                 <div class="flex justify-center items-center px-6 pt-6 pb-2">
                     <img 
                         alt="MingCute logo with stylized M in blue and yellow" 
@@ -79,7 +79,7 @@
                 <div class="px-5 pb-5">
                     <!-- Search bar removed -->
                     <nav class="space-y-3 text-gray-600 text-sm font-medium">
-                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="#">
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="faculty.html">
                             <i class="fas fa-home text-gray-400 w-5"></i>
                             <span class="full-content">Faculty Members</span>
                         </a>
@@ -88,7 +88,7 @@
                             <span class="full-content">Schedules</span>
                         </a>
                         <hr class="border-gray-200 my-3" />
-                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="new.html">
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="#">
                             <i class="far fa-newspaper text-gray-400 w-5"></i>
                             <span class="full-content">Create New Schedules</span>
                         </a>
@@ -111,15 +111,82 @@
                     </div>
                 </div>
                 <button aria-label="Logout" class="text-gray-400 hover:text-gray-600 transition-colors full-content">
-                    <i class="fas fa-sign-out-alt">
-                    </i>
+                    <i class="fas fa-sign-out-alt"></i>
                 </button>
             </footer>
         </aside>
         <main class="flex-1 p-6">
             <!-- Main dashboard content here -->
+            <!-- Upload CSV Section -->
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-lg font-medium text-gray-800 mb-4">Upload CSV File</h2>
+                <form action="/upload" method="POST" enctype="multipart/form-data" class="space-y-4">
+                    <div>
+                        <label for="csvFile" class="block text-sm font-medium text-gray-700">Choose CSV File(s)</label>
+                        <input type="file" id="csvFile" name="csvFile" accept=".csv"
+                            multiple
+                            class="mt-1 block w-full text-sm text-gray-900 border border-gray-300 rounded-lg cursor-pointer focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    <button type="submit"
+                        class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors">
+                        Upload
+                    </button>
+                </form>
+            </div>
         </main>
     </div>
-</body>
+    <!-- Confirmation Modal -->
+    <div id="confirmModal" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
+        <div style="background:#fff; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.2); padding:32px 24px; min-width:300px; position:relative;">
+            <button id="closeModal" style="position:absolute; top:12px; right:16px; background:none; border:none; font-size:20px; cursor:pointer;">&times;</button>
+            <h2 style="margin:0 0 12px 0; font-size:1.3em;">Confirm</h2>
+            <p style="margin-bottom:24px;">File uploaded successfully!</p>
+            <button id="modalOk" style="color:#1976d2; background:none; border:none; font-size:16px; cursor:pointer;">OK</button>
+        </div>
+    </div>
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const form = document.querySelector('form');
+        const fileInput = document.getElementById('csvFile');
+        const confirmModal = document.getElementById('confirmModal');
+        const closeModal = document.getElementById('closeModal');
+        const modalOk = document.getElementById('modalOk');
 
+        const allowedNames = [
+            'instructors.csv',
+            'courses.csv',
+            'minorcourses.csv',
+            'rooms.csv'
+        ];
+
+        form.addEventListener('submit', function (e) {
+            const files = fileInput.files;
+            if (!files.length) {
+                e.preventDefault();
+                alert('Please select a CSV file to upload.');
+                return;
+            }
+            // Check all selected files
+            for (let i = 0; i < files.length; i++) {
+                if (!allowedNames.includes(files[i].name)) {
+                    e.preventDefault();
+                    alert('Only instructor.csv, courses.csv, minorcourses.csv, and rooms.csv are allowed.');
+                    return;
+                }
+            }
+            e.preventDefault();
+            confirmModal.style.display = 'flex';
+        });
+
+        closeModal.addEventListener('click', function () {
+            confirmModal.style.display = 'none';
+        });
+
+        modalOk.addEventListener('click', function () {
+            confirmModal.style.display = 'none';
+            form.submit();
+        });
+    });
+    </script>
+</body>
 </html>

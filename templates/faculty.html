@@ -1,45 +1,72 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <title>
-        MingCute Sidebar Hover Expand
-    </title>
-    <script src="https://cdn.tailwindcss.com">
-    </script>
+    <title>Faculty Members</title>
+    <link rel="stylesheet" href="../css/faculty.css">
+    <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
     <style>
         body {
             font-family: 'Inter', sans-serif;
+            background: #f4f4f4;
         }
-
         .sidebar {
             transition: width 0.3s ease;
             width: 64px;
-            /* 4rem - initial width */
         }
-
         .sidebar:hover {
             width: 288px;
-            /* 18rem - expanded width */
         }
-
         .sidebar .full-content {
             opacity: 0;
             visibility: hidden;
             transition: opacity 0.3s ease;
             white-space: nowrap;
         }
-
         .sidebar:hover .full-content {
             opacity: 1;
             visibility: visible;
         }
-
         .sidebar:hover .small-content {
             display: none;
+        }
+        .user-list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+            padding: 16px;
+        }
+        .user-card {
+            background: #fff;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+            padding: 16px 12px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            max-width: 420px;
+            min-width: 0;
+        }
+        .user-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 20%;
+            background: #e0e0e0;
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+        .user-info {
+            flex: 1;
+        }
+        .user-name {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin: 0 0 4px 0;
+            color: #222;
         }
     </style>
 </head>
@@ -47,37 +74,23 @@
 <body class="min-h-screen items-center justify-center p-4">
     <!-- Header -->
     <header class="header flex items-center justify-between bg-white shadow-md px-6 py-4">
-        <!-- Logo on the left -->
         <div class="flex items-center space-x-3">
-            
-            <h1 class="text-lg font-semibold text-gray-800">Dashboard</h1>
-        </div>
-        <!-- Optional right-side content -->
-        <div>
-            <!-- Add any additional content here, like a user profile or settings button -->
+            <h1 class="text-lg font-semibold text-gray-800">Faculty Members</h1>
         </div>
     </header>
 
     <!-- Main Content -->
     <div class="flex">
-        <aside
-            class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden">
+        <aside class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden">
             <div>
-                <!-- Logo first -->
                 <div class="flex justify-center items-center px-6 pt-6 pb-2">
-                    <img 
-                        alt="MingCute logo with stylized M in blue and yellow" 
-                        class="w-[15%] h-auto mx-auto" 
-                        src="../img/big1.png" 
-                        style="min-width:32px; max-width:60px;" 
-                    />
+                    <img alt="MingCute logo with stylized M in blue and yellow" class="w-[15%] h-auto mx-auto"
+                        src="../img/big1.png" style="min-width:32px; max-width:60px;" />
                 </div>
-                <!-- Title after logo -->
                 <div class="px-6 pb-4 flex justify-center">
                     <h1 class="font-semibold text-lg text-gray-800 full-content text-center">TimeTabling</h1>
                 </div>
                 <div class="px-5 pb-5">
-                    <!-- Search bar removed -->
                     <nav class="space-y-3 text-gray-600 text-sm font-medium">
                         <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="#">
                             <i class="fas fa-home text-gray-400 w-5"></i>
@@ -97,7 +110,7 @@
             </div>
             <footer class="flex items-center justify-between bg-gray-100 p-3">
                 <div class="flex items-center space-x-3">
-                    <img alt="Round avatar image of a person with palm trees background" class="w-10 h-10 rounded-full"
+                    <img alt="Round avatar image" class="w-10 h-10 rounded-full"
                         height="40"
                         src="https://storage.googleapis.com/a1aa/image/55824fb4-8def-47ac-3da8-6144e8ad8bb8.jpg"
                         width="40" />
@@ -111,15 +124,43 @@
                     </div>
                 </div>
                 <button aria-label="Logout" class="text-gray-400 hover:text-gray-600 transition-colors full-content">
-                    <i class="fas fa-sign-out-alt">
-                    </i>
+                    <i class="fas fa-sign-out-alt"></i>
                 </button>
             </footer>
         </aside>
-        <main class="flex-1 p-6">
-            <!-- Main dashboard content here -->
+        <main class="flex-1 p-2">
+            <h1 style="text-align:center; margin-top:16px; color:#222; font-size:1.5em;">Faculty Members</h1>
+            <!-- Search Bar aligned left -->
+            <div style="display:flex; justify-content:flex-start; margin-bottom:16px;">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Search by name..."
+                    style="width: 320px; padding: 8px 14px; border: 1px solid #ccc; border-radius: 6px; font-size: 1em;"
+                    onkeyup="filterFaculty()"
+                />
+            </div>
+            <div class="user-list" id="facultyList">
+                {% for name in instructors %}
+                <div class="user-card">
+                    <img class="user-avatar" src="../img/avatar{{ loop.index }}.png" alt="{{ name }}">
+                    <div class="user-info">
+                        <div class="user-name">{{ name }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <script>
+                function filterFaculty() {
+                    const input = document.getElementById('searchInput').value.toLowerCase();
+                    const cards = document.querySelectorAll('#facultyList .user-card');
+                    cards.forEach(card => {
+                        const name = card.querySelector('.user-name').textContent.toLowerCase();
+                        card.style.display = name.includes(input) ? '' : 'none';
+                    });
+                }
+            </script>
         </main>
     </div>
 </body>
-
 </html>
