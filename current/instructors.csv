@@ -1,0 +1,41 @@
+InstructorName,MaxLoad,AvailableDays,AvailableTimes,CoursesCanTeach
+Alpha Reyes,18,Mon;Tue;Wed;Thu,07:00-16:00,INSY 55;DCIT 60
+Bravo Santos,13,Mon;Tue;Wed;Thu,07:00-17:00,DCIT 24;DCIT 65
+Charlie Mendoza,14,Mon;Tue;Wed;Thu,07:00-17:00,ITEC 80;DCIT 65
+Delta Chua,10,Mon;Tue;Wed;Thu,07:00-13:00,DCIT 60;DCIT 22
+Echo Gonzales,10,Mon;Tue;Wed;Thu,07:00-16:00,DCIT 22;DCIT 60
+Foxtrot Lim,11,Mon;Tue;Wed;Thu,07:00-16:00,COSC 50;DCIT 26
+Golf Ocampo,12,Mon;Tue;Wed,07:00-18:00,ITEC 116;DCIT 22
+Hotel Rivera,12,Mon;Tue;Wed;Thu,07:00-16:00,DCIT 22;DCIT 50
+India Ramos,3,Wed,12:00-16:00,CvSU 101
+Juliet Lopez,8,Tue;Wed,07:00-16:00,COSC 75;COSC 80
+Kilo Dela Cruz,14,Tue;Wed;Thu,07:00-16:00,COSC 200A;DCIT 21
+Lima Salazar,11,Mon;Tue;Wed,7:00-18:00,CvSU 101
+Mike Domingo,6,Tue;Wed,07:00-16:00,COSC 50
+November Sy,12,Mon;Tue,07:00-13:00,DCIT 21;INSY 50;ITEC 200A
+Oscar Manalo,14,Tue;Thu,07:00-13:00,COSC 50;COSC 60
+Papa Velasco,13,Tue;Wed;Thu,07:00-10:00,DCIT 22;INSY 50
+Quebec Padilla,35,Mon;Tue;Wed;Thu;Fri,07:00-19:00,ITEC 90;ITEC 80;DCIT 21;ITEC 110
+Romeo Aquino,20,Tue;Wed;Thu;Fri,07:00-12:00,ITEC 90;DCIT 50;TECO 30
+Sierra Ignacio,31,Mon;Tue;Wed;Thu,07:00-19:00,DCIT 22;ITEC 85;DCIT 21
+Tango Rosales,32,Mon;Tue;Wed;Thu,07:00-19:00,ITEC 55;DCIT 21;COSC 50
+Uniform Fabros,31,Mon;Tue;Wed;Fri,07:00-19:00,DCIT 24;ITEC 5;COSC 50;COSC 55
+Victor Ong,9,Fri,07:00-19:00,COSC 55
+Whiskey Santiago,23,Mon;Tue;Wed;Thu;Fri;Sat,07:00-19:00,INSY 50;COSC 75;DCIT 65;ITEC 111
+Xray Alcaraz,10,Fri,07:00-18:00,ITEC 116
+Yankee Co,10,Sat,07:00-18:00,COSC 75
+Zulu Navarro,22,Mon;Wed;Thu;Fri,11:00-19:00,ITEC 110;DCIT 26;COSC 85;ITEC 111
+Badger Abad,32,Mon;Tue;Wed;Thu,07:00-19:00,ITEC 55;COSC 101;COSC 60
+Cheetah Alcaraz,33,Tue;Wed;Thu;Fri,07:00-19:00,COSC 80;DCIT 50;COSC 100
+Dingo Bautista,35,Mon;Tue;Wed;Thu;Fri,07:00-19:00,DCIT 22;COSC 105;ITEC 80
+Eagle Co,31,Mon;Tue;Wed;Thu,07:00-19:00,DCIT 21;COSC 50;DCIT 26;ITEC 85
+Falcon Cruz,30,Mon;Tue;Wed;Thu;Fri,07:00-19:00,DCIT 22;DCIT 24
+Gecko Domingo,22,Mon;Wed;Thu;Fri,07:00-19:00,ITEC 55;DCIT 24;DCIT 26
+Jaguar Enriquez,36,Mon;Tue;Wed;Thu;Fri,07:00-19:00,DCIT 50;COSC 50;COSC 60;DCIT 24
+Koala Garcia,33,Tue;Wed;Thu;Fri,07:00-19:00,COSC 60;COSC 50;COSC 85;ITEC 80
+Lemur Manalo,31,Mon;Tue;Wed;Thu,07:00-19:00,DCIT 24;DCIT 22;DCIT 21
+Meerkat Navarro,30,Mon;Tue;Wed;Thu;Fri,10:00-19:00,DCIT 50;ITEC 85;DCIT 26;COSC 105;COSC 85;ITEC 101
+Otter Ramos,23,Mon;Tue;Wed;Thu;Fri,07:00-13:00,ITEC 110;ITEC 111;DCIT 50
+Panda Rosales,17,Tue;Thu;Fri,07:00-14:00,COSC 111
+
+

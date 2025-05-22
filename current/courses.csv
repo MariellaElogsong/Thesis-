@@ -1,0 +1,60 @@
+CourseCode,CourseName,Units,LectureHours,LabHours,Sections,RequiredCCL,SpecificLabRoom,LabNeedsRoom
+
+COSC 50,Discrete Structures I,3,3,0,BSCS 1-1; BSCS 1-2; BSCS 1-3; BSCS 1-4; BSCS 1-5; BSCS 1-6; BSCS 1-7,0,
+DCIT 21,Introduction to Computing ,3,2,3,BSCS 1-1; BSCS 1-2; BSCS 1-3; BSCS 1-4; BSCS 1-5; BSCS 1-6; BSCS 1-7,1,CCL 402,True
+DCIT 22,Computer Programming 1,3,1,6,BSCS 1-1; BSCS 1-2; BSCS 1-3; BSCS 1-4; BSCS 1-5; BSCS 1-6; BSCS 1-7,1,CCL 203; CCL 204,True 
+CvSU 101,Institutional Orientation,1,1,0,BSCS 1-1; BSCS 1-2; BSCS 1-3; BSCS 1-4; BSCS 1-5; BSCS 1-6; BSCS 1-7,0,
+
+
+COSC 55,Discrete Structures II,3,3,0,BSCS 2-1; BSCS 2-2; BSCS 2-3; BSCS 2-4; BSCS 2-5,0,
+COSC 60,Digital Logic Design,3,2,3,BSCS 2-1; BSCS 2-2; BSCS 2-3; BSCS 2-4; BSCS 2-5,1,CCL 305,True
+DCIT 50,Object Oriented Programming,3,2,3,BSCS 2-1; BSCS 2-2; BSCS 2-3; BSCS 2-4; BSCS 2-5,1,CCL 303,True
+DCIT 24,Information Management,3,2,3,BSCS 2-1; BSCS 2-2; BSCS 2-3; BSCS 2-4; BSCS 2-5,1,CCL 306,True
+INSY 50,Fundamentals of Information Systems,3,3,0,BSCS 2-1; BSCS 2-2; BSCS 2-3; BSCS 2-4; BSCS 2-5,0,
+
+
+COSC 75,Software Engineering II,3,2,3,BSCS 3-1; BSCS 3-2; BSCS 3-3,0,ITC 408,False
+COSC 80,Operating Systems,3,2,3,BSCS 3-1; BSCS 3-2; BSCS 3-3,1,CCL 202,True
+COSC 85,Networks and Communication,3,2,3,BSCS 3-1; BSCS 3-2; BSCS 3-3,1,CCL 305,True
+COSC 101,CS Elective 1 (Computer Graphics and Visual Computing),3,2,3,BSCS 3-1; BSCS 3-2; BSCS 3-3,1,CCL 202,True
+DCIT 26,Applications Development and Emerging Technologies,3,2,3,BSCS 3-1; BSCS 3-2; BSCS 3-3,1,CCL 303,True
+DCIT 65,Social and Professional Issues,3,3,0,BSCS 3-1; BSCS 3-2; BSCS 3-3,0,
+
+
+ITEC 80,Human Computer Interaction,1,3,0,BSCS 4-1; BSCS 4-2; BSCS 4-3,0,
+COSC 100,Automata Theory and Formal Languages,3,3,0,BSCS 4-1; BSCS 4-2; BSCS 4-3,0,
+COSC 105,Intelligent Systems,3,2,3,BSCS 4-1; BSCS 4-2; BSCS 4-3,1,CCL 306,True
+COSC 111,CS Elective 3 (Internet of Things),3,2,3,BSCS 4-1; BSCS 4-2; BSCS 4-3,1,CCL 102,True
+COSC 200A,Undergraduate Thesis I,3,1,0,BSCS 4-1; BSCS 4-2; BSCS 4-3,0,
+
+
+COSC 50,Discrete Structures I,3,3,0,BSIT 1-1; BSIT 1-2; BSIT 1-3; BSIT 1-4; BSIT 1-5; BSIT 1-6; BSIT 1-7,0,
+DCIT 21,Introduction to Computing ,3,2,3,BSIT 1-1; BSIT 1-2; BSIT 1-3; BSIT 1-4; BSIT 1-5; BSIT 1-6; BSIT 1-7,1,CCL 402,True
+DCIT 22,Computer Programming 1,3,1,6,BSIT 1-1; BSIT 1-2; BSIT 1-3; BSIT 1-4; BSIT 1-5; BSIT 1-6; BSIT 1-7,1,CCL 203; CCL 204,True
+CvSU 101,Institutional Orientation,1,1,0,BSIT 1-1; BSIT 1-2; BSIT 1-3; BSIT 1-4; BSIT 1-5; BSIT 1-6; BSIT 1-7,0,
+
+
+ITEC 55,Platform Techniques,3,2,3,BSIT 2-1; BSIT 2-2; BSIT 2-3; BSIT 2-4; BSIT 2-5,1,CCL 306; CCL 204,True
+DCIT 24,Information Management,3,2,3,BSIT 2-1; BSIT 2-2; BSIT 2-3; BSIT 2-4; BSIT 2-5,1,CCL 306; CCL 204,True
+DCIT 50,Object Oriented Programming,3,2,3,BSIT 2-1; BSIT 2-2; BSIT 2-3; BSIT 2-4; BSIT 2-5,1,CCL 303; CCL 305,True
+
+
+ITEC 80,Introduction to Human Computer Interaction,3,2,3,BSIT 3-1; BSIT 3-2; BSIT 3-3,0,ITC 402; ITC 401; ITC 502,False
+ITEC 85,Information Assurance and Security I,3,2,3,BSIT 3-1; BSIT 3-2; BSIT 3-3,1,CCL 202,True
+ITEC 90,Network Fundamentals,3,2,3,BSIT 3-1; BSIT 3-2; BSIT 3-3,1,CCL 305,True
+INSY 55,System Analysis and Design,3,2,3,BSIT 3-1; BSIT 3-2; BSIT 3-3,0,ITC 408; OS,False
+DCIT 26,Application Development and Emerging Technologies,3,2,3,BSIT 3-1; BSIT 3-2; BSIT 3-3,1,CCL 305; CCL 303,True
+DCIT 60,Methods of Research,3,3,0,BSIT 3-1; BSIT 3-2; BSIT 3-3,0,
+
+
+DCIT 65,Social and Professional Issues,3,3,0,BSIT 4-1; BSIT 4-2; BSIT 4-3,0,
+ITEC 111,IT Elective 3 (Integrated Programming and Technologies 2),3,2,3,BSIT 4-1; BSIT 4-2; BSIT 4-3,1,CCL 102,True
+ITEC 116,IT Elective 4 (Systems Integration and Architechture 2),3,2,3,BSIT 4-1; BSIT 4-2; BSIT 4-3,1,CCL 305,True
+ITEC 110,Systems Administration and Maintenance,3,2,3,BSIT 4-1; BSIT 4-2; BSIT 4-3,1,CCL 202,True
+
+
+
+
+
+
+

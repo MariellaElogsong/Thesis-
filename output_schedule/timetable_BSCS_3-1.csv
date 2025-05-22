@@ -1,0 +1,13 @@
+YearLevel,Section,Course,Session,Room,Day,Time,Instructor
+BSCS 3-1,BSCS 3-1,COSC 75 - Software Engineering II,Lecture,OS,Wednesday,11:00-13:00,Juliet Lopez
+BSCS 3-1,BSCS 3-1,COSC 75 - Software Engineering II,Lab,ITC 408,Wednesday,07:00-10:00,Juliet Lopez
+BSCS 3-1,BSCS 3-1,COSC 80 - Operating Systems,Lecture,ITC 502,Tuesday,10:00-12:00,Juliet Lopez
+BSCS 3-1,BSCS 3-1,COSC 80 - Operating Systems,Lab,CCL 202,Friday,16:00-19:00,Cheetah Alcaraz
+BSCS 3-1,BSCS 3-1,COSC 85 - Networks and Communication,Lecture,ITC 402,Monday,16:00-18:00,Zulu Navarro
+BSCS 3-1,BSCS 3-1,COSC 85 - Networks and Communication,Lab,CCL 305,Monday,11:00-14:00,Zulu Navarro
+BSCS 3-1,BSCS 3-1,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lecture,ITC 403,Wednesday,09:00-11:00,Badger Abad
+BSCS 3-1,BSCS 3-1,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lab,CCL 202,Wednesday,13:00-16:00,Badger Abad
+BSCS 3-1,BSCS 3-1,DCIT 26 - Applications Development and Emerging Technologies,Lecture,ITC 404,Tuesday,11:00-13:00,Foxtrot Lim
+BSCS 3-1,BSCS 3-1,DCIT 26 - Applications Development and Emerging Technologies,Lab,CCL 303,Friday,13:00-16:00,Zulu Navarro
+BSCS 3-1,BSCS 3-1,DCIT 65 - Social and Professional Issues,Lecture,ITC 503,Wednesday,12:00-15:00,Charlie Mendoza
+BSCS 3-1,BSCS 3-1,MATH 3 - Linear Algebra,Lecture,OS,Friday,07:00-10:00,Sample Instructor

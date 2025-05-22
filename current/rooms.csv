@@ -1,0 +1,22 @@
+RoomID,RoomType,Capacity,AvailableDays,AvailableTimes
+OS,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 201,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 401,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 402,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 403,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 404,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 408,Lecture,40,Mon-Tue-Wed-Thu-Fri-Sat,07:00-19:00
+ITC 501,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 502,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 503,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 504,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+ITC 505,Lecture,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 102,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 202,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 203,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 204,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 303,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 305,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 306,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+CCL 402,Lab,40,Mon-Tue-Wed-Thu-Fri,07:00-19:00
+

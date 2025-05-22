@@ -1,0 +1,10 @@
+YearLevel,Section,Course,Session,Room,Day,Time,Instructor
+BSCS 1-6,BSCS 1-6,COSC 50 - Discrete Structures I,Lecture,ITC 408,Tuesday,09:00-12:00,Oscar Manalo
+BSCS 1-6,BSCS 1-6,DCIT 21 - Introduction to Computing,Lecture,ITC 501,Monday,12:00-14:00,Quebec Padilla
+BSCS 1-6,BSCS 1-6,DCIT 21 - Introduction to Computing,Lab,CCL 402,Wednesday,14:00-17:00,Quebec Padilla
+BSCS 1-6,BSCS 1-6,DCIT 22 - Computer Programming 1,Lecture,ITC 502,Thursday,11:00-12:00,Delta Chua
+BSCS 1-6,BSCS 1-6,CVSU 101 - Institutional Orientation,Lecture,ITC 404,Monday,16:00-17:00,Lima Salazar
+BSCS 1-6,BSCS 1-6,GNED 02 - Ethics,Lecture,OS,Monday,08:00-11:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,GNED 05 - Purposive Communication,Lecture,ITC 408,Thursday,10:00-13:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,FITT 1 - Movement Enhancement,Lecture,ITC 403,Saturday,13:00-15:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,NSTP 1 - National Service Training Program 1,Lecture,ITC 502,Friday,09:00-12:00,Sample Instructor
