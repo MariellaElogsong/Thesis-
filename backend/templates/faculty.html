@@ -84,19 +84,23 @@
         <aside class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden">
             <div>
                 <div class="flex justify-center items-center px-6 pt-6 pb-2">
-                    <img alt="MingCute logo with stylized M in blue and yellow" class="w-[15%] h-auto mx-auto"
-                        src="../img/big1.png" style="min-width:32px; max-width:60px;" />
+                    <img 
+                        alt="MingCute logo with stylized M in blue and yellow"
+                        class="mx-auto"
+                        src="../img/big1.png"
+                        style="width:48px; height:auto; min-width:32px; max-width:60px; display:block;"
+                    />
                 </div>
                 <div class="px-6 pb-4 flex justify-center">
                     <h1 class="font-semibold text-lg text-gray-800 full-content text-center">TimeTabling</h1>
                 </div>
                 <div class="px-5 pb-5">
                     <nav class="space-y-3 text-gray-600 text-sm font-medium">
-                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="#">
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="faculty.html">
                             <i class="fas fa-home text-gray-400 w-5"></i>
                             <span class="full-content">Faculty Members</span>
                         </a>
-                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors relative" href="#">
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors relative" href="result.html">
                             <i class="far fa-calendar-check w-5"></i>
                             <span class="full-content">Schedules</span>
                         </a>
@@ -140,23 +144,29 @@
                     onkeyup="filterFaculty()"
                 />
             </div>
-            <div class="user-list" id="facultyList">
-                {% for name in instructors %}
-                <div class="user-card">
-                    <img class="user-avatar" src="../img/avatar{{ loop.index }}.png" alt="{{ name }}">
-                    <div class="user-info">
-                        <div class="user-name">{{ name }}</div>
-                    </div>
+            <div class="bg-white rounded-lg shadow p-4 max-w-3xl mx-auto">
+                <div class="flex items-center px-2 pb-2 border-b border-gray-200">
+                    <span class="text-gray-400 text-lg mr-2"><i class="fas fa-font"></i></span>
+                    <span class="text-gray-400 font-semibold">Name</span>
                 </div>
-                {% endfor %}
+                <ul id="facultyList" class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 divide-y sm:divide-y-0 sm:divide-x divide-gray-200 mt-2">
+                    {% for name in instructors %}
+                    <li class="flex items-center py-4 px-2">
+                        <img class="w-12 h-12 rounded-full object-cover mr-4 border border-gray-200"
+                             src="../img/avatar{{ loop.index }}.png"
+                             alt="{{ name }}">
+                        <span class="text-gray-800 font-medium text-lg">{{ name }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
             <script>
                 function filterFaculty() {
                     const input = document.getElementById('searchInput').value.toLowerCase();
-                    const cards = document.querySelectorAll('#facultyList .user-card');
-                    cards.forEach(card => {
-                        const name = card.querySelector('.user-name').textContent.toLowerCase();
-                        card.style.display = name.includes(input) ? '' : 'none';
+                    const items = document.querySelectorAll('#facultyList li');
+                    items.forEach(item => {
+                        const name = item.querySelector('span').textContent.toLowerCase();
+                        item.style.display = name.includes(input) ? '' : 'none';
                     });
                 }
             </script>

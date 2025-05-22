@@ -1,0 +1,197 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <title>Schedules</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .sidebar {
+            transition: width 0.3s ease;
+            width: 64px;
+            min-width: 64px;
+            max-width: 288px;
+            overflow-x: hidden;
+        }
+        .sidebar:hover {
+            width: 288px;
+        }
+        .sidebar .full-content {
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s ease;
+            white-space: nowrap;
+        }
+        .sidebar:hover .full-content {
+            opacity: 1;
+            visibility: visible;
+        }
+        .sidebar .small-content {
+            display: block;
+        }
+        .sidebar:hover .small-content {
+            display: none;
+        }
+        /* Optional: keep sidebar height full */
+        .sidebar {
+            height: 100vh;
+        }
+    </style>
+</head>
+
+<body class="min-h-screen items-center justify-center p-4">
+    <!-- Header -->
+    <header class="header flex items-center justify-between bg-white shadow-md px-6 py-4">
+        <div class="flex items-center space-x-3">
+            <h1 class="text-lg font-semibold text-gray-800">Schedules</h1>
+        </div>
+        <div>
+            <!-- Add any additional content here, like a user profile or settings button -->
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="flex">
+        <aside class="sidebar flex flex-col justify-between bg-white shadow-lg cursor-pointer overflow-hidden">
+            <div>
+                <!-- Logo first -->
+                <div class="flex justify-center items-center px-6 pt-6 pb-2">
+                    <img 
+                        alt="MingCute logo with stylized M in blue and yellow" 
+                        class="w-[32px] h-auto mx-auto"
+                        src="../img/big1.png"
+                        style="min-width:32px; max-width:60px;" 
+                    />
+                </div>
+                <!-- Title after logo -->
+                <div class="px-6 pb-4 flex justify-center">
+                    <h1 class="font-semibold text-lg text-gray-800 full-content text-center">TimeTabling</h1>
+                </div>
+                <div class="px-5 pb-5">
+                    <nav class="space-y-3 text-gray-600 text-sm font-medium">
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="#">
+                            <i class="fas fa-home text-gray-400 w-5"></i>
+                            <span class="full-content">Faculty Members</span>
+                        </a>
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors relative" href="#">
+                            <i class="far fa-calendar-check w-5"></i>
+                            <span class="full-content">Schedules</span>
+                        </a>
+                        <hr class="border-gray-200 my-3" />
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="new.html">
+                            <i class="far fa-newspaper text-gray-400 w-5"></i>
+                            <span class="full-content">Create New Schedules</span>
+                        </a>
+                    </nav>
+                </div>
+            </div>
+            <footer class="flex items-center justify-between bg-gray-100 p-3">
+                <div class="flex items-center space-x-3">
+                    <img alt="Round avatar image of a person with palm trees background" class="w-10 h-10 rounded-full"
+                        height="40"
+                        src="https://storage.googleapis.com/a1aa/image/55824fb4-8def-47ac-3da8-6144e8ad8bb8.jpg"
+                        width="40" />
+                    <div class="text-xs full-content">
+                        <p class="font-semibold text-gray-800 leading-none">
+                            Richard
+                        </p>
+                        <p class="text-gray-500 leading-none">
+                            9394lay@gmail.com
+                        </p>
+                    </div>
+                </div>
+                <button aria-label="Logout" class="text-gray-400 hover:text-gray-600 transition-colors full-content">
+                    <i class="fas fa-sign-out-alt"></i>
+                </button>
+            </footer>
+        </aside>
+        <main class="flex-1 p-6">
+            <div class="bg-white rounded shadow p-6 mb-8">
+                <h2 class="text-2xl font-bold mb-4 text-gray-800">1st Year Schedule</h2>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full text-sm font-mono border border-gray-300">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-800">
+                                <th class="px-4 py-2 border border-gray-300">Section</th>
+                                <th class="px-4 py-2 border border-gray-300">Course</th>
+                                <th class="px-4 py-2 border border-gray-300">Session</th>
+                                <th class="px-4 py-2 border border-gray-300">Room</th>
+                                <th class="px-4 py-2 border border-gray-300">Day</th>
+                                <th class="px-4 py-2 border border-gray-300">Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Empty rows for now -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="bg-white rounded shadow p-6 mb-8">
+                <h2 class="text-2xl font-bold mb-4 text-gray-800">2nd Year Schedule</h2>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full text-sm font-mono border border-gray-300">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-800">
+                                <th class="px-4 py-2 border border-gray-300">Section</th>
+                                <th class="px-4 py-2 border border-gray-300">Course</th>
+                                <th class="px-4 py-2 border border-gray-300">Session</th>
+                                <th class="px-4 py-2 border border-gray-300">Room</th>
+                                <th class="px-4 py-2 border border-gray-300">Day</th>
+                                <th class="px-4 py-2 border border-gray-300">Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Empty rows for now -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="bg-white rounded shadow p-6 mb-8">
+                <h2 class="text-2xl font-bold mb-4 text-gray-800">3rd Year Schedule</h2>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full text-sm font-mono border border-gray-300">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-800">
+                                <th class="px-4 py-2 border border-gray-300">Section</th>
+                                <th class="px-4 py-2 border border-gray-300">Course</th>
+                                <th class="px-4 py-2 border border-gray-300">Session</th>
+                                <th class="px-4 py-2 border border-gray-300">Room</th>
+                                <th class="px-4 py-2 border border-gray-300">Day</th>
+                                <th class="px-4 py-2 border border-gray-300">Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Empty rows for now -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="bg-white rounded shadow p-6">
+                <h2 class="text-2xl font-bold mb-4 text-gray-800">4th Year Schedule</h2>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full text-sm font-mono border border-gray-300">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-800">
+                                <th class="px-4 py-2 border border-gray-300">Section</th>
+                                <th class="px-4 py-2 border border-gray-300">Course</th>
+                                <th class="px-4 py-2 border border-gray-300">Session</th>
+                                <th class="px-4 py-2 border border-gray-300">Room</th>
+                                <th class="px-4 py-2 border border-gray-300">Day</th>
+                                <th class="px-4 py-2 border border-gray-300">Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Empty rows for now -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

@@ -60,16 +60,15 @@
 
     <!-- Main Content -->
     <div class="flex">
-        <aside
-            class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden">
+        <aside class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden" style="height: 100vh;">
             <div>
                 <!-- Logo centered and 15% width -->
                 <div class="flex justify-center items-center px-6 pt-6 pb-2">
                     <img 
                         alt="MingCute logo with stylized M in blue and yellow" 
-                        class="w-[15%] h-auto mx-auto" 
-                        src="../img/big1.png" 
-                        style="min-width:32px; max-width:60px;" 
+                        class="mx-auto"
+                        src="../img/big1.png"
+                        style="width:48px; height:auto; min-width:32px; max-width:60px; display:block;"
                     />
                 </div>
                 <!-- Title after logo -->
@@ -77,14 +76,13 @@
                     <h1 class="font-semibold text-lg text-gray-800 full-content text-center">TimeTabling</h1>
                 </div>
                 <div class="px-5 pb-5">
-                    <!-- Search bar removed -->
                     <nav class="space-y-3 text-gray-600 text-sm font-medium">
                         <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="faculty.html">
                             <i class="fas fa-home text-gray-400 w-5"></i>
                             <span class="full-content">Faculty Members</span>
                         </a>
-                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors relative" href="#">
-                            <i class="far fa-calendar-check w-5"></i>
+                        <a class="flex items-center space-x-3 hover:text-gray-800 transition-colors" href="result.html">
+                            <i class="far fa-newspaper text-gray-400 w-5"></i>
                             <span class="full-content">Schedules</span>
                         </a>
                         <hr class="border-gray-200 my-3" />
@@ -130,6 +128,15 @@
                     <button type="submit"
                         class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors">
                         Upload
+                    </button>
+                </form>
+            </div>
+            <!-- Add this "Schedule" button below your upload form, inside <main> -->
+            <div class="mt-8 flex justify-end">
+                <form action="/result" method="get">
+                    <button type="submit"
+                        class="bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700 transition-colors font-semibold">
+                        Schedule
                     </button>
                 </form>
             </div>
