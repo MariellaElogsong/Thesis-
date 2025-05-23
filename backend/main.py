@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, redirect, url_for
-import pandas as pd
 import os
 
 app = Flask(__name__)
@@ -42,9 +41,10 @@ def upload():
     for file in files:
         if file.filename in allowed:
             file.save(os.path.join(UPLOAD_FOLDER, file.filename))
-    # === Call your constraint programming logic here ===
-    import constraint_programming  # Make sure this runs your logic and generates final_timetable.csv
-    # ================================================
+    # Call your timetable generation function here
+    from templates.constraint_programming import generate_timetable
+    generate_timetable()
+    # Redirect to /faculty after generation is complete
     return redirect(url_for('faculty'))
 
 if __name__ == "__main__":

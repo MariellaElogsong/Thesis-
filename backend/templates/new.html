@@ -41,6 +41,16 @@
         .sidebar:hover .small-content {
             display: none;
         }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
     </style>
 </head>
 
@@ -49,7 +59,7 @@
     <header class="header flex items-center justify-between bg-white shadow-md px-6 py-4">
         <!-- Logo on the left -->
         <div class="flex items-center space-x-3">
-            
+
             <h1 class="text-lg font-semibold text-gray-800">Create New</h1>
         </div>
         <!-- Optional right-side content -->
@@ -60,16 +70,13 @@
 
     <!-- Main Content -->
     <div class="flex">
-        <aside class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden" style="height: 100vh;">
+        <aside class="sidebar flex flex-col justify-between bg-white h-[600px] shadow-lg cursor-pointer overflow-hidden"
+            style="height: 100vh;">
             <div>
                 <!-- Logo centered and 15% width -->
                 <div class="flex justify-center items-center px-6 pt-6 pb-2">
-                    <img 
-                        alt="MingCute logo with stylized M in blue and yellow" 
-                        class="mx-auto"
-                        src="../img/big1.png"
-                        style="width:48px; height:auto; min-width:32px; max-width:60px; display:block;"
-                    />
+                    <img alt="MingCute logo with stylized M in blue and yellow" class="mx-auto" src="../img/big1.png"
+                        style="width:48px; height:auto; min-width:32px; max-width:60px; display:block;" />
                 </div>
                 <!-- Title after logo -->
                 <div class="px-6 pb-4 flex justify-center">
@@ -121,8 +128,7 @@
                 <form action="/upload" method="POST" enctype="multipart/form-data" class="space-y-4">
                     <div>
                         <label for="csvFile" class="block text-sm font-medium text-gray-700">Choose CSV File(s)</label>
-                        <input type="file" id="csvFile" name="csvFile" accept=".csv"
-                            multiple
+                        <input type="file" id="csvFile" name="csvFile" accept=".csv" multiple
                             class="mt-1 block w-full text-sm text-gray-900 border border-gray-300 rounded-lg cursor-pointer focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
                     </div>
                     <button type="submit"
@@ -131,33 +137,22 @@
                     </button>
                 </form>
             </div>
-            <!-- Add this "Schedule" button below your upload form, inside <main> -->
-            <div class="mt-8 flex justify-end">
-                <form action="/result" method="get">
-                    <button type="submit"
-                        class="bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700 transition-colors font-semibold">
-                        Schedule
-                    </button>
-                </form>
-            </div>
         </main>
     </div>
-    <!-- Confirmation Modal -->
-    <div id="confirmModal" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
-        <div style="background:#fff; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.2); padding:32px 24px; min-width:300px; position:relative;">
-            <button id="closeModal" style="position:absolute; top:12px; right:16px; background:none; border:none; font-size:20px; cursor:pointer;">&times;</button>
-            <h2 style="margin:0 0 12px 0; font-size:1.3em;">Confirm</h2>
-            <p style="margin-bottom:24px;">File uploaded successfully!</p>
-            <button id="modalOk" style="color:#1976d2; background:none; border:none; font-size:16px; cursor:pointer;">OK</button>
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay"
+        style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(255,255,255,0.7); z-index:2000; align-items:center; justify-content:center;">
+        <div style="text-align:center;">
+            <div class="loader"
+                style="border: 6px solid #f3f3f3; border-top: 6px solid #3498db; border-radius: 50%; width: 48px; height: 48px; animation: spin 1s linear infinite; margin:auto;"></div>
+            <div style="margin-top:16px; color:#333; font-size:1.1em;">Generating schedule, please wait...</div>
         </div>
     </div>
     <script>
     document.addEventListener('DOMContentLoaded', function () {
         const form = document.querySelector('form');
         const fileInput = document.getElementById('csvFile');
-        const confirmModal = document.getElementById('confirmModal');
-        const closeModal = document.getElementById('closeModal');
-        const modalOk = document.getElementById('modalOk');
+        const loadingOverlay = document.getElementById('loadingOverlay');
 
         const allowedNames = [
             'instructors.csv',
@@ -180,21 +175,11 @@
                     return;
                 }
             }
-            // Only prevent default to show modal, not on modalOk
-            e.preventDefault();
-            confirmModal.style.display = 'flex';
-        });
-
-        closeModal.addEventListener('click', function () {
-            confirmModal.style.display = 'none';
-        });
-
-        modalOk.addEventListener('click', function () {
-            confirmModal.style.display = 'none';
-            // Actually submit the form now
-            form.submit();
+            // Show loading overlay immediately on submit
+            loadingOverlay.style.display = 'flex';
         });
     });
     </script>
 </body>
+
 </html>
