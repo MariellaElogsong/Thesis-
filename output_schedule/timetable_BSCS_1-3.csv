@@ -1,11 +1,11 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSCS 1-3,BSCS 1-3,COSC 50 - Discrete Structures I,Lecture,ITC 408,Tuesday,07:00-10:00,Foxtrot Lim
-BSCS 1-3,BSCS 1-3,DCIT 21 - Introduction to Computing,Lecture,ITC 502,Wednesday,13:00-15:00,Kilo Dela Cruz
-BSCS 1-3,BSCS 1-3,DCIT 21 - Introduction to Computing,Lab,CCL 402,Tuesday,10:00-13:00,November Sy
-BSCS 1-3,BSCS 1-3,DCIT 22 - Computer Programming 1,Lecture,ITC 404,Wednesday,11:00-12:00,Delta Chua
-BSCS 1-3,BSCS 1-3,CVSU 101 - Institutional Orientation,Lecture,ITC 503,Wednesday,13:00-14:00,India Ramos
+BSCS 1-3,BSCS 1-3,COSC 50 - Discrete Structures I,Lecture,ITC 408,Wednesday,10:00-13:00,Foxtrot Lim
+BSCS 1-3,BSCS 1-3,DCIT 21 - Introduction to Computing,Lecture,ITC 408,Wednesday,09:00-11:00,Kilo Dela Cruz
+BSCS 1-3,BSCS 1-3,DCIT 21 - Introduction to Computing,Lab,CCL 402,Monday,10:00-13:00,November Sy
+BSCS 1-3,BSCS 1-3,DCIT 22 - Computer Programming 1,Lecture,ITC 504,Tuesday,08:00-09:00,Delta Chua
+BSCS 1-3,BSCS 1-3,CVSU 101 - Institutional Orientation,Lecture,ITC 401,Wednesday,14:00-15:00,India Ramos
 BSCS 1-3,BSCS 1-3,GNED 02 - Ethics,Lecture,ITC 201,Tuesday,13:00-16:00,Sample Instructor
-BSCS 1-3,BSCS 1-3,GNED 05 - Purposive Communication,Lecture,OS,Tuesday,08:00-11:00,Sample Instructor
-BSCS 1-3,BSCS 1-3,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 402,Monday,08:00-11:00,Sample Instructor
-BSCS 1-3,BSCS 1-3,FITT 1 - Movement Enhancement,Lecture,ITC 505,Saturday,12:00-14:00,Sample Instructor
-BSCS 1-3,BSCS 1-3,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Friday,10:00-13:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,GNED 05 - Purposive Communication,Lecture,ITC 501,Thursday,08:00-11:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 502,Monday,08:00-11:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,FITT 1 - Movement Enhancement,Lecture,ITC 201,Saturday,14:00-16:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Saturday,10:00-13:00,Sample Instructor

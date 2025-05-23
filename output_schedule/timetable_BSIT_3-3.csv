@@ -1,9 +1,10 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSIT 3-3,BSIT 3-3,ITEC 80 - Introduction to Human Computer Interaction,Lecture,OS,Wednesday,12:00-14:00,Dingo Bautista
-BSIT 3-3,BSIT 3-3,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 502,Friday,07:00-10:00,Dingo Bautista
-BSIT 3-3,BSIT 3-3,ITEC 85 - Information Assurance and Security I,Lecture,ITC 401,Wednesday,07:00-09:00,Sierra Ignacio
-BSIT 3-3,BSIT 3-3,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Monday,08:00-11:00,Sierra Ignacio
-BSIT 3-3,BSIT 3-3,ITEC 90 - Network Fundamentals,Lab,CCL 305,Monday,12:00-15:00,Sample Instructor
-BSIT 3-3,BSIT 3-3,INSY 55 - System Analysis and Design,Lecture,ITC 402,Monday,13:00-15:00,Alpha Reyes
-BSIT 3-3,BSIT 3-3,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 505,Wednesday,10:00-12:00,Eagle Co
-BSIT 3-3,BSIT 3-3,DCIT 60 - Methods of Research,Lecture,ITC 504,Monday,10:00-13:00,Echo Gonzales
+BSIT 3-3,BSIT 3-3,ITEC 80 - Introduction to Human Computer Interaction,Lecture,ITC 408,Wednesday,10:00-12:00,Dingo Bautista
+BSIT 3-3,BSIT 3-3,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 401,Wednesday,12:00-15:00,Dingo Bautista
+BSIT 3-3,BSIT 3-3,ITEC 85 - Information Assurance and Security I,Lecture,ITC 504,Monday,09:00-11:00,Sierra Ignacio
+BSIT 3-3,BSIT 3-3,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Wednesday,16:00-19:00,Eagle Co
+BSIT 3-3,BSIT 3-3,ITEC 90 - Network Fundamentals,Lecture,OS,Wednesday,11:00-13:00,Sample Instructor
+BSIT 3-3,BSIT 3-3,INSY 55 - System Analysis and Design,Lecture,ITC 401,Wednesday,14:00-16:00,Alpha Reyes
+BSIT 3-3,BSIT 3-3,INSY 55 - System Analysis and Design,Lab,ITC 408,Tuesday,09:00-12:00,Sample Instructor
+BSIT 3-3,BSIT 3-3,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 408,Thursday,10:00-12:00,Eagle Co
+BSIT 3-3,BSIT 3-3,DCIT 60 - Methods of Research,Lecture,ITC 404,Monday,07:00-10:00,Echo Gonzales

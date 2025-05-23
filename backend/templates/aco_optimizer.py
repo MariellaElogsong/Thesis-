@@ -292,7 +292,7 @@ def run_aco(num_ants=5, iterations=20):
 
     # Attempt to import and run aco_checker.py
     try:
-        import aco_checker  # Ensure aco_checker is present in your environment
+        import backend.templates.aco_checker as aco_checker  # Ensure aco_checker is present in your environment
         aco_checker.main()  # Run the main function of aco_checker
     except ImportError:
         print("⚠️ Warning: aco_checker.py not found or could not be imported.")

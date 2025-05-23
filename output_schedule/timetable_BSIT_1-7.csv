@@ -1,11 +1,10 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSIT 1-7,BSIT 1-7,COSC 50 - Discrete Structures I,Lecture,ITC 404,Monday,16:00-19:00,Tango Rosales
-BSIT 1-7,BSIT 1-7,DCIT 21 - Introduction to Computing,Lecture,ITC 501,Tuesday,12:00-14:00,Sierra Ignacio
-BSIT 1-7,BSIT 1-7,DCIT 21 - Introduction to Computing,Lab,CCL 402,Thursday,12:00-15:00,Sierra Ignacio
-BSIT 1-7,BSIT 1-7,DCIT 22 - Computer Programming 1,Lecture,OS,Monday,09:00-10:00,Echo Gonzales
-BSIT 1-7,BSIT 1-7,CVSU 101 - Institutional Orientation,Lecture,ITC 408,Tuesday,13:00-14:00,Lima Salazar
-BSIT 1-7,BSIT 1-7,GNED 02 - Ethics,Lecture,ITC 404,Thursday,07:00-10:00,Sample Instructor
-BSIT 1-7,BSIT 1-7,GNED 05 - Purposive Communication,Lecture,ITC 408,Monday,07:00-10:00,Sample Instructor
-BSIT 1-7,BSIT 1-7,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 502,Tuesday,10:00-13:00,Sample Instructor
-BSIT 1-7,BSIT 1-7,FITT 1 - Movement Enhancement,Lecture,ITC 501,Friday,14:00-16:00,Sample Instructor
-BSIT 1-7,BSIT 1-7,NSTP 1 - National Service Training Program 1,Lecture,ITC 401,Friday,12:00-15:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,COSC 50 - Discrete Structures I,Lecture,ITC 502,Tuesday,07:00-10:00,Tango Rosales
+BSIT 1-7,BSIT 1-7,DCIT 21 - Introduction to Computing,Lecture,ITC 403,Thursday,14:00-16:00,Sierra Ignacio
+BSIT 1-7,BSIT 1-7,DCIT 21 - Introduction to Computing,Lab,CCL 402,Wednesday,11:00-14:00,Sierra Ignacio
+BSIT 1-7,BSIT 1-7,DCIT 22 - Computer Programming 1,Lecture,ITC 402,Thursday,12:00-13:00,Echo Gonzales
+BSIT 1-7,BSIT 1-7,CVSU 101 - Institutional Orientation,Lecture,ITC 201,Monday,10:00-11:00,Lima Salazar
+BSIT 1-7,BSIT 1-7,GNED 02 - Ethics,Lecture,OS,Monday,11:00-14:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 501,Wednesday,08:00-11:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,FITT 1 - Movement Enhancement,Lecture,ITC 201,Friday,10:00-12:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Friday,11:00-14:00,Sample Instructor

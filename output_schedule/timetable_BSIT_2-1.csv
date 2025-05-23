@@ -1,8 +1,8 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSIT 2-1,BSIT 2-1,ITEC 55 - Platform Techniques,Lecture,ITC 403,Wednesday,14:00-16:00,Tango Rosales
-BSIT 2-1,BSIT 2-1,DCIT 24 - Information Management,Lecture,ITC 505,Monday,13:00-15:00,Uniform Fabros
-BSIT 2-1,BSIT 2-1,DCIT 50 - Object Oriented Programming,Lecture,ITC 403,Tuesday,10:00-12:00,Romeo Aquino
-BSIT 2-1,BSIT 2-1,GNED 04 - Mga Basahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 505,Monday,08:00-11:00,Sample Instructor
-BSIT 2-1,BSIT 2-1,GNED 10 - Gender and Society,Lecture,ITC 504,Wednesday,08:00-11:00,Sample Instructor
-BSIT 2-1,BSIT 2-1,GNED 14 - Panitikang Panlipunan,Lecture,ITC 502,Wednesday,13:00-16:00,Sample Instructor
-BSIT 2-1,BSIT 2-1,FITT 3 - Physical Activities towards Health and Fitness I,Lecture,ITC 504,Saturday,11:00-13:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,ITEC 55 - Platform Techniques,Lecture,OS,Thursday,09:00-11:00,Tango Rosales
+BSIT 2-1,BSIT 2-1,DCIT 24 - Information Management,Lecture,OS,Wednesday,14:00-16:00,Uniform Fabros
+BSIT 2-1,BSIT 2-1,DCIT 50 - Object Oriented Programming,Lecture,OS,Tuesday,16:00-18:00,Cheetah Alcaraz
+BSIT 2-1,BSIT 2-1,GNED 07 - The Contemporary World,Lecture,OS,Monday,12:00-15:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,GNED 10 - Gender and Society,Lecture,ITC 502,Thursday,12:00-15:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,GNED 14 - Panitikang Panlipunan,Lecture,ITC 201,Wednesday,09:00-12:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,FITT 3 - Physical Activities towards Health and Fitness I,Lecture,ITC 404,Friday,09:00-11:00,Sample Instructor

@@ -170,6 +170,22 @@
                     });
                 }
             </script>
+            <div class="bg-white rounded-lg shadow p-4 max-w-xl mx-auto mt-8">
+                <h2 class="text-lg font-semibold text-gray-800 mb-4">Instructors</h2>
+                <ul class="divide-y divide-gray-200">
+                    {% for name in instructors %}
+                    <li class="flex items-center py-4 px-2">
+                        <img class="w-12 h-12 rounded-full object-cover mr-4 border border-gray-200"
+                             src="../img/avatar{{ loop.index }}.png"
+                             alt="{{ name }}">
+                        <span class="text-gray-800 font-medium text-lg">{{ name }}</span>
+                    </li>
+                    {% endfor %}
+                    {% if instructors|length == 0 %}
+                    <li class="text-gray-400 py-4 text-center">No instructors found.</li>
+                    {% endif %}
+                </ul>
+            </div>
         </main>
     </div>
 </body>

@@ -1,8 +1,8 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSIT 4-3,BSIT 4-3,DCIT 65 - Social and Professional Issues,Lecture,ITC 504,Monday,07:00-10:00,Sample Instructor
-BSIT 4-3,BSIT 4-3,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lecture,ITC 501,Tuesday,11:00-13:00,Otter Ramos
-BSIT 4-3,BSIT 4-3,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lab,CCL 102,Thursday,07:00-10:00,Otter Ramos
-BSIT 4-3,BSIT 4-3,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lecture,ITC 403,Tuesday,16:00-18:00,Golf Ocampo
-BSIT 4-3,BSIT 4-3,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lab,CCL 305,Friday,14:00-17:00,Xray Alcaraz
-BSIT 4-3,BSIT 4-3,ITEC 110 - Systems Administration and Maintenance,Lecture,ITC 401,Monday,07:00-09:00,Otter Ramos
-BSIT 4-3,BSIT 4-3,ITEC 110 - Systems Administration and Maintenance,Lab,CCL 202,Wednesday,11:00-14:00,Sample Instructor
+BSIT 4-3,BSIT 4-3,DCIT 65 - Social and Professional Issues,Lecture,ITC 403,Thursday,10:00-13:00,Sample Instructor
+BSIT 4-3,BSIT 4-3,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lecture,ITC 505,Thursday,11:00-13:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lab,CCL 102,Thursday,08:00-11:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lecture,ITC 408,Monday,16:00-18:00,Golf Ocampo
+BSIT 4-3,BSIT 4-3,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lab,CCL 305,Friday,07:00-10:00,Xray Alcaraz
+BSIT 4-3,BSIT 4-3,ITEC 110 - Systems Administration and Maintenance,Lecture,ITC 504,Wednesday,07:00-09:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,ITEC 110 - Systems Administration and Maintenance,Lab,CCL 202,Tuesday,13:00-16:00,Sample Instructor

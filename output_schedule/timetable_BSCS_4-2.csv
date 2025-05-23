@@ -1,8 +1,8 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSCS 4-2,BSCS 4-2,ITEC 80 - Human Computer Interaction,Lecture,ITC 402,Monday,07:00-10:00,Quebec Padilla
-BSCS 4-2,BSCS 4-2,COSC 100 - Automata Theory and Formal Languages,Lecture,ITC 503,Wednesday,11:00-14:00,Cheetah Alcaraz
-BSCS 4-2,BSCS 4-2,COSC 105 - Intelligent Systems,Lecture,ITC 404,Wednesday,14:00-16:00,Dingo Bautista
-BSCS 4-2,BSCS 4-2,COSC 105 - Intelligent Systems,Lab,CCL 306,Wednesday,07:00-10:00,Dingo Bautista
-BSCS 4-2,BSCS 4-2,COSC 111 - CS Elective 3 (Internet of Things),Lecture,ITC 404,Thursday,11:00-13:00,Panda Rosales
-BSCS 4-2,BSCS 4-2,COSC 111 - CS Elective 3 (Internet of Things),Lab,CCL 102,Friday,10:00-13:00,Panda Rosales
-BSCS 4-2,BSCS 4-2,COSC 200A - Undergraduate Thesis I,Lecture,ITC 402,Friday,12:00-13:00,Sample Instructor
+BSCS 4-2,BSCS 4-2,ITEC 80 - Human Computer Interaction,Lecture,ITC 502,Friday,15:00-18:00,Quebec Padilla
+BSCS 4-2,BSCS 4-2,COSC 100 - Automata Theory and Formal Languages,Lecture,ITC 201,Tuesday,11:00-14:00,Cheetah Alcaraz
+BSCS 4-2,BSCS 4-2,COSC 105 - Intelligent Systems,Lecture,ITC 504,Tuesday,16:00-18:00,Dingo Bautista
+BSCS 4-2,BSCS 4-2,COSC 105 - Intelligent Systems,Lab,CCL 306,Tuesday,08:00-11:00,Dingo Bautista
+BSCS 4-2,BSCS 4-2,COSC 111 - CS Elective 3 (Internet of Things),Lecture,OS,Tuesday,08:00-10:00,Panda Rosales
+BSCS 4-2,BSCS 4-2,COSC 111 - CS Elective 3 (Internet of Things),Lab,CCL 102,Tuesday,11:00-14:00,Panda Rosales
+BSCS 4-2,BSCS 4-2,COSC 200A - Undergraduate Thesis I,Lecture,ITC 504,Tuesday,10:00-11:00,Sample Instructor

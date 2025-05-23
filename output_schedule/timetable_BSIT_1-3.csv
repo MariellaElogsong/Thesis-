@@ -1,10 +1,11 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSIT 1-3,BSIT 1-3,COSC 50 - Discrete Structures I,Lecture,OS,Thursday,08:00-11:00,Tango Rosales
-BSIT 1-3,BSIT 1-3,DCIT 21 - Introduction to Computing,Lecture,ITC 408,Monday,10:00-12:00,Quebec Padilla
+BSIT 1-3,BSIT 1-3,COSC 50 - Discrete Structures I,Lecture,ITC 201,Wednesday,07:00-10:00,Tango Rosales
+BSIT 1-3,BSIT 1-3,DCIT 21 - Introduction to Computing,Lecture,ITC 501,Wednesday,17:00-19:00,Quebec Padilla
 BSIT 1-3,BSIT 1-3,DCIT 21 - Introduction to Computing,Lab,CCL 402,Tuesday,11:00-14:00,Quebec Padilla
-BSIT 1-3,BSIT 1-3,DCIT 22 - Computer Programming 1,Lecture,OS,Thursday,08:00-09:00,Delta Chua
-BSIT 1-3,BSIT 1-3,CVSU 101 - Institutional Orientation,Lecture,ITC 201,Tuesday,16:00-17:00,Lima Salazar
-BSIT 1-3,BSIT 1-3,GNED 02 - Ethics,Lecture,ITC 408,Tuesday,13:00-16:00,Sample Instructor
-BSIT 1-3,BSIT 1-3,GNED 05 - Purposive Communication,Lecture,ITC 403,Thursday,09:00-12:00,Sample Instructor
-BSIT 1-3,BSIT 1-3,FITT 1 - Movement Enhancement,Lecture,ITC 201,Saturday,14:00-16:00,Sample Instructor
-BSIT 1-3,BSIT 1-3,NSTP 1 - National Service Training Program 1,Lecture,ITC 201,Saturday,08:00-11:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,DCIT 22 - Computer Programming 1,Lecture,ITC 201,Tuesday,10:00-11:00,Delta Chua
+BSIT 1-3,BSIT 1-3,CVSU 101 - Institutional Orientation,Lecture,ITC 505,Tuesday,14:00-15:00,Lima Salazar
+BSIT 1-3,BSIT 1-3,GNED 02 - Ethics,Lecture,ITC 501,Wednesday,12:00-15:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,GNED 05 - Purposive Communication,Lecture,ITC 503,Wednesday,10:00-13:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,OS,Wednesday,11:00-14:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,FITT 1 - Movement Enhancement,Lecture,ITC 408,Saturday,08:00-10:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,NSTP 1 - National Service Training Program 1,Lecture,ITC 402,Friday,13:00-16:00,Sample Instructor

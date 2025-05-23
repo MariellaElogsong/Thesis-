@@ -187,6 +187,7 @@ def mark_room_as_used(room, day, time, course):
 def schedule_year(year, course_list):
     global instructor_tracker
     timetable = []
+    
 
     for course in course_list:
         course_code = course['CourseCode'].strip().upper()

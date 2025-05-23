@@ -1,11 +1,11 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSIT 3-1,BSIT 3-1,ITEC 80 - Introduction to Human Computer Interaction,Lecture,ITC 402,Monday,15:00-17:00,Charlie Mendoza
-BSIT 3-1,BSIT 3-1,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 402,Friday,14:00-17:00,Dingo Bautista
-BSIT 3-1,BSIT 3-1,ITEC 85 - Information Assurance and Security I,Lecture,ITC 503,Thursday,16:00-18:00,Sierra Ignacio
-BSIT 3-1,BSIT 3-1,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Tuesday,08:00-11:00,Sierra Ignacio
-BSIT 3-1,BSIT 3-1,ITEC 90 - Network Fundamentals,Lecture,ITC 503,Friday,08:00-10:00,Romeo Aquino
-BSIT 3-1,BSIT 3-1,ITEC 90 - Network Fundamentals,Lab,CCL 305,Thursday,13:00-16:00,Sample Instructor
-BSIT 3-1,BSIT 3-1,INSY 55 - System Analysis and Design,Lecture,ITC 401,Tuesday,12:00-14:00,Alpha Reyes
-BSIT 3-1,BSIT 3-1,INSY 55 - System Analysis and Design,Lab,ITC 408,Monday,10:00-13:00,Alpha Reyes
-BSIT 3-1,BSIT 3-1,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 401,Wednesday,08:00-10:00,Eagle Co
-BSIT 3-1,BSIT 3-1,DCIT 60 - Methods of Research,Lecture,ITC 402,Wednesday,09:00-12:00,Alpha Reyes
+BSIT 3-1,BSIT 3-1,ITEC 80 - Introduction to Human Computer Interaction,Lecture,ITC 504,Thursday,08:00-10:00,Charlie Mendoza
+BSIT 3-1,BSIT 3-1,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 401,Friday,15:00-18:00,Dingo Bautista
+BSIT 3-1,BSIT 3-1,ITEC 85 - Information Assurance and Security I,Lecture,ITC 504,Tuesday,13:00-15:00,Sierra Ignacio
+BSIT 3-1,BSIT 3-1,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Thursday,08:00-11:00,Sierra Ignacio
+BSIT 3-1,BSIT 3-1,ITEC 90 - Network Fundamentals,Lecture,OS,Friday,08:00-10:00,Romeo Aquino
+BSIT 3-1,BSIT 3-1,ITEC 90 - Network Fundamentals,Lab,CCL 305,Monday,12:00-15:00,Sample Instructor
+BSIT 3-1,BSIT 3-1,INSY 55 - System Analysis and Design,Lecture,ITC 401,Wednesday,09:00-11:00,Alpha Reyes
+BSIT 3-1,BSIT 3-1,INSY 55 - System Analysis and Design,Lab,OS,Monday,10:00-13:00,Alpha Reyes
+BSIT 3-1,BSIT 3-1,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 501,Wednesday,08:00-10:00,Eagle Co
+BSIT 3-1,BSIT 3-1,DCIT 60 - Methods of Research,Lecture,ITC 401,Wednesday,11:00-14:00,Alpha Reyes

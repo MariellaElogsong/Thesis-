@@ -1,0 +1,331 @@
+YearLevel,Section,Course,Session,Room,Day,Time,Instructor
+BSCS 1-1,BSCS 1-1,COSC 50 - Discrete Structures I,Lecture,ITC 505,Monday,09:00-12:00,Foxtrot Lim
+BSCS 1-1,BSCS 1-1,DCIT 21 - Introduction to Computing,Lecture,ITC 502,Thursday,07:00-09:00,Kilo Dela Cruz
+BSCS 1-1,BSCS 1-1,DCIT 21 - Introduction to Computing,Lab,CCL 402,Tuesday,12:00-15:00,Kilo Dela Cruz
+BSCS 1-1,BSCS 1-1,DCIT 22 - Computer Programming 1,Lecture,ITC 501,Thursday,07:00-08:00,Delta Chua
+BSCS 1-1,BSCS 1-1,CVSU 101 - Institutional Orientation,Lecture,ITC 505,Wednesday,15:00-16:00,India Ramos
+BSCS 1-1,BSCS 1-1,GNED 02 - Ethics,Lecture,ITC 505,Thursday,09:00-12:00,Sample Instructor
+BSCS 1-1,BSCS 1-1,GNED 05 - Purposive Communication,Lecture,ITC 408,Thursday,07:00-10:00,Sample Instructor
+BSCS 1-1,BSCS 1-1,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 503,Tuesday,07:00-10:00,Sample Instructor
+BSCS 1-1,BSCS 1-1,FITT 1 - Movement Enhancement,Lecture,ITC 502,Friday,07:00-09:00,Sample Instructor
+BSCS 1-1,BSCS 1-1,NSTP 1 - National Service Training Program 1,Lecture,OS,Saturday,11:00-14:00,Sample Instructor
+BSCS 1-2,BSCS 1-2,COSC 50 - Discrete Structures I,Lecture,ITC 404,Monday,13:00-16:00,Foxtrot Lim
+BSCS 1-2,BSCS 1-2,DCIT 21 - Introduction to Computing,Lecture,ITC 502,Thursday,10:00-12:00,Kilo Dela Cruz
+BSCS 1-2,BSCS 1-2,DCIT 21 - Introduction to Computing,Lab,CCL 402,Thursday,12:00-15:00,Kilo Dela Cruz
+BSCS 1-2,BSCS 1-2,DCIT 22 - Computer Programming 1,Lecture,ITC 401,Wednesday,07:00-08:00,Delta Chua
+BSCS 1-2,BSCS 1-2,CVSU 101 - Institutional Orientation,Lecture,ITC 504,Wednesday,12:00-13:00,India Ramos
+BSCS 1-2,BSCS 1-2,GNED 02 - Ethics,Lecture,ITC 401,Tuesday,12:00-15:00,Sample Instructor
+BSCS 1-2,BSCS 1-2,GNED 05 - Purposive Communication,Lecture,ITC 503,Thursday,08:00-11:00,Sample Instructor
+BSCS 1-2,BSCS 1-2,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 505,Tuesday,09:00-12:00,Sample Instructor
+BSCS 1-2,BSCS 1-2,FITT 1 - Movement Enhancement,Lecture,ITC 401,Friday,11:00-13:00,Sample Instructor
+BSCS 1-2,BSCS 1-2,NSTP 1 - National Service Training Program 1,Lecture,ITC 201,Friday,07:00-10:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,COSC 50 - Discrete Structures I,Lecture,ITC 408,Wednesday,10:00-13:00,Foxtrot Lim
+BSCS 1-3,BSCS 1-3,DCIT 21 - Introduction to Computing,Lecture,ITC 408,Wednesday,09:00-11:00,Kilo Dela Cruz
+BSCS 1-3,BSCS 1-3,DCIT 21 - Introduction to Computing,Lab,CCL 402,Monday,10:00-13:00,November Sy
+BSCS 1-3,BSCS 1-3,DCIT 22 - Computer Programming 1,Lecture,ITC 504,Tuesday,08:00-09:00,Delta Chua
+BSCS 1-3,BSCS 1-3,CVSU 101 - Institutional Orientation,Lecture,ITC 401,Wednesday,14:00-15:00,India Ramos
+BSCS 1-3,BSCS 1-3,GNED 02 - Ethics,Lecture,ITC 201,Tuesday,13:00-16:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,GNED 05 - Purposive Communication,Lecture,ITC 501,Thursday,08:00-11:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 502,Monday,08:00-11:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,FITT 1 - Movement Enhancement,Lecture,ITC 201,Saturday,14:00-16:00,Sample Instructor
+BSCS 1-3,BSCS 1-3,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Saturday,10:00-13:00,Sample Instructor
+BSCS 1-4,BSCS 1-4,COSC 50 - Discrete Structures I,Lecture,ITC 403,Wednesday,12:00-15:00,Mike Domingo
+BSCS 1-4,BSCS 1-4,DCIT 21 - Introduction to Computing,Lecture,ITC 401,Tuesday,09:00-11:00,Kilo Dela Cruz
+BSCS 1-4,BSCS 1-4,DCIT 21 - Introduction to Computing,Lab,CCL 402,Tuesday,08:00-11:00,November Sy
+BSCS 1-4,BSCS 1-4,DCIT 22 - Computer Programming 1,Lecture,ITC 404,Tuesday,12:00-13:00,Delta Chua
+BSCS 1-4,BSCS 1-4,CVSU 101 - Institutional Orientation,Lecture,ITC 201,Monday,09:00-10:00,Lima Salazar
+BSCS 1-4,BSCS 1-4,GNED 02 - Ethics,Lecture,ITC 502,Thursday,08:00-11:00,Sample Instructor
+BSCS 1-4,BSCS 1-4,GNED 05 - Purposive Communication,Lecture,ITC 403,Monday,13:00-16:00,Sample Instructor
+BSCS 1-4,BSCS 1-4,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 403,Monday,10:00-13:00,Sample Instructor
+BSCS 1-4,BSCS 1-4,FITT 1 - Movement Enhancement,Lecture,ITC 501,Saturday,14:00-16:00,Sample Instructor
+BSCS 1-4,BSCS 1-4,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Saturday,07:00-10:00,Sample Instructor
+BSCS 1-5,BSCS 1-5,COSC 50 - Discrete Structures I,Lecture,OS,Wednesday,08:00-11:00,Mike Domingo
+BSCS 1-5,BSCS 1-5,DCIT 21 - Introduction to Computing,Lecture,ITC 503,Monday,07:00-09:00,November Sy
+BSCS 1-5,BSCS 1-5,DCIT 21 - Introduction to Computing,Lab,CCL 402,Wednesday,12:00-15:00,Quebec Padilla
+BSCS 1-5,BSCS 1-5,DCIT 22 - Computer Programming 1,Lecture,OS,Wednesday,08:00-09:00,Delta Chua
+BSCS 1-5,BSCS 1-5,CVSU 101 - Institutional Orientation,Lecture,ITC 201,Monday,15:00-16:00,Lima Salazar
+BSCS 1-5,BSCS 1-5,GNED 02 - Ethics,Lecture,ITC 501,Thursday,12:00-15:00,Sample Instructor
+BSCS 1-5,BSCS 1-5,GNED 05 - Purposive Communication,Lecture,ITC 408,Tuesday,10:00-13:00,Sample Instructor
+BSCS 1-5,BSCS 1-5,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 501,Wednesday,09:00-12:00,Sample Instructor
+BSCS 1-5,BSCS 1-5,FITT 1 - Movement Enhancement,Lecture,ITC 402,Saturday,12:00-14:00,Sample Instructor
+BSCS 1-5,BSCS 1-5,NSTP 1 - National Service Training Program 1,Lecture,ITC 404,Saturday,07:00-10:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,COSC 50 - Discrete Structures I,Lecture,ITC 503,Tuesday,08:00-11:00,Oscar Manalo
+BSCS 1-6,BSCS 1-6,DCIT 21 - Introduction to Computing,Lecture,ITC 403,Tuesday,11:00-13:00,November Sy
+BSCS 1-6,BSCS 1-6,DCIT 21 - Introduction to Computing,Lab,CCL 402,Monday,11:00-14:00,Quebec Padilla
+BSCS 1-6,BSCS 1-6,DCIT 22 - Computer Programming 1,Lecture,ITC 402,Monday,12:00-13:00,Delta Chua
+BSCS 1-6,BSCS 1-6,CVSU 101 - Institutional Orientation,Lecture,ITC 401,Tuesday,09:00-10:00,Lima Salazar
+BSCS 1-6,BSCS 1-6,GNED 02 - Ethics,Lecture,ITC 502,Wednesday,07:00-10:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,GNED 05 - Purposive Communication,Lecture,ITC 201,Monday,07:00-10:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 504,Tuesday,07:00-10:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,FITT 1 - Movement Enhancement,Lecture,ITC 505,Saturday,12:00-14:00,Sample Instructor
+BSCS 1-6,BSCS 1-6,NSTP 1 - National Service Training Program 1,Lecture,ITC 201,Friday,09:00-12:00,Sample Instructor
+BSCS 1-7,BSCS 1-7,COSC 50 - Discrete Structures I,Lecture,ITC 403,Thursday,07:00-10:00,Oscar Manalo
+BSCS 1-7,BSCS 1-7,DCIT 21 - Introduction to Computing,Lecture,ITC 408,Thursday,07:00-09:00,Quebec Padilla
+BSCS 1-7,BSCS 1-7,DCIT 21 - Introduction to Computing,Lab,CCL 402,Thursday,15:00-18:00,Quebec Padilla
+BSCS 1-7,BSCS 1-7,DCIT 22 - Computer Programming 1,Lecture,ITC 501,Tuesday,07:00-08:00,Delta Chua
+BSCS 1-7,BSCS 1-7,CVSU 101 - Institutional Orientation,Lecture,OS,Tuesday,16:00-17:00,Lima Salazar
+BSCS 1-7,BSCS 1-7,GNED 02 - Ethics,Lecture,ITC 403,Wednesday,11:00-14:00,Sample Instructor
+BSCS 1-7,BSCS 1-7,GNED 05 - Purposive Communication,Lecture,ITC 502,Wednesday,11:00-14:00,Sample Instructor
+BSCS 1-7,BSCS 1-7,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 201,Tuesday,08:00-11:00,Sample Instructor
+BSCS 1-7,BSCS 1-7,FITT 1 - Movement Enhancement,Lecture,OS,Saturday,07:00-09:00,Sample Instructor
+BSCS 1-7,BSCS 1-7,NSTP 1 - National Service Training Program 1,Lecture,ITC 404,Friday,10:00-13:00,Sample Instructor
+BSCS 2-1,BSCS 2-1,COSC 55 - Discrete Structures II,Lecture,ITC 408,Tuesday,16:00-19:00,Uniform Fabros
+BSCS 2-1,BSCS 2-1,COSC 60 - Digital Logic Design,Lecture,ITC 501,Thursday,10:00-12:00,Oscar Manalo
+BSCS 2-1,BSCS 2-1,COSC 60 - Digital Logic Design,Lab,CCL 305,Tuesday,13:00-16:00,Badger Abad
+BSCS 2-1,BSCS 2-1,DCIT 50 - Object Oriented Programming,Lecture,ITC 402,Wednesday,14:00-16:00,Hotel Rivera
+BSCS 2-1,BSCS 2-1,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Monday,11:00-14:00,Hotel Rivera
+BSCS 2-1,BSCS 2-1,DCIT 24 - Information Management,Lecture,ITC 408,Monday,08:00-10:00,Bravo Santos
+BSCS 2-1,BSCS 2-1,DCIT 24 - Information Management,Lab,CCL 306,Tuesday,11:00-14:00,Bravo Santos
+BSCS 2-1,BSCS 2-1,INSY 50 - Fundamentals of Information Systems,Lecture,ITC 501,Thursday,07:00-10:00,Papa Velasco
+BSCS 2-1,BSCS 2-1,GNED 04 - Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 408,Monday,11:00-14:00,Sample Instructor
+BSCS 2-1,BSCS 2-1,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 404,Friday,11:00-13:00,Sample Instructor
+BSCS 2-1,BSCS 2-1,MATH 1 - Analytic Geometry,Lecture,OS,Thursday,11:00-14:00,Sample Instructor
+BSCS 2-2,BSCS 2-2,COSC 55 - Discrete Structures II,Lecture,ITC 201,Monday,15:00-18:00,Uniform Fabros
+BSCS 2-2,BSCS 2-2,COSC 60 - Digital Logic Design,Lecture,ITC 404,Tuesday,11:00-13:00,Oscar Manalo
+BSCS 2-2,BSCS 2-2,COSC 60 - Digital Logic Design,Lab,CCL 305,Thursday,08:00-11:00,Badger Abad
+BSCS 2-2,BSCS 2-2,DCIT 50 - Object Oriented Programming,Lecture,ITC 505,Thursday,14:00-16:00,Hotel Rivera
+BSCS 2-2,BSCS 2-2,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Monday,07:00-10:00,Hotel Rivera
+BSCS 2-2,BSCS 2-2,DCIT 24 - Information Management,Lecture,ITC 401,Thursday,13:00-15:00,Bravo Santos
+BSCS 2-2,BSCS 2-2,DCIT 24 - Information Management,Lab,CCL 306,Thursday,07:00-10:00,Bravo Santos
+BSCS 2-2,BSCS 2-2,INSY 50 - Fundamentals of Information Systems,Lecture,OS,Tuesday,07:00-10:00,Papa Velasco
+BSCS 2-2,BSCS 2-2,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 501,Friday,08:00-10:00,Sample Instructor
+BSCS 2-2,BSCS 2-2,MATH 1 - Analytic Geometry,Lecture,ITC 403,Tuesday,07:00-10:00,Sample Instructor
+BSCS 2-3,BSCS 2-3,COSC 55 - Discrete Structures II,Lecture,ITC 503,Monday,10:00-13:00,Uniform Fabros
+BSCS 2-3,BSCS 2-3,COSC 60 - Digital Logic Design,Lecture,ITC 501,Tuesday,10:00-12:00,Badger Abad
+BSCS 2-3,BSCS 2-3,COSC 60 - Digital Logic Design,Lab,CCL 305,Monday,14:00-17:00,Badger Abad
+BSCS 2-3,BSCS 2-3,DCIT 50 - Object Oriented Programming,Lecture,ITC 408,Tuesday,09:00-11:00,Hotel Rivera
+BSCS 2-3,BSCS 2-3,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Thursday,07:00-10:00,Romeo Aquino
+BSCS 2-3,BSCS 2-3,DCIT 24 - Information Management,Lecture,ITC 501,Monday,12:00-14:00,Bravo Santos
+BSCS 2-3,BSCS 2-3,DCIT 24 - Information Management,Lab,CCL 306,Tuesday,13:00-16:00,Uniform Fabros
+BSCS 2-3,BSCS 2-3,INSY 50 - Fundamentals of Information Systems,Lecture,ITC 404,Wednesday,07:00-10:00,Papa Velasco
+BSCS 2-3,BSCS 2-3,GNED 04 - Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 504,Thursday,10:00-13:00,Sample Instructor
+BSCS 2-3,BSCS 2-3,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 501,Saturday,08:00-10:00,Sample Instructor
+BSCS 2-3,BSCS 2-3,MATH 1 - Analytic Geometry,Lecture,ITC 504,Thursday,13:00-16:00,Sample Instructor
+BSCS 2-4,BSCS 2-4,COSC 55 - Discrete Structures II,Lecture,ITC 502,Tuesday,09:00-12:00,Uniform Fabros
+BSCS 2-4,BSCS 2-4,COSC 60 - Digital Logic Design,Lecture,ITC 404,Monday,08:00-10:00,Badger Abad
+BSCS 2-4,BSCS 2-4,COSC 60 - Digital Logic Design,Lab,CCL 305,Wednesday,07:00-10:00,Badger Abad
+BSCS 2-4,BSCS 2-4,DCIT 50 - Object Oriented Programming,Lecture,ITC 505,Thursday,10:00-12:00,Romeo Aquino
+BSCS 2-4,BSCS 2-4,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Tuesday,08:00-11:00,Romeo Aquino
+BSCS 2-4,BSCS 2-4,DCIT 24 - Information Management,Lecture,ITC 403,Tuesday,07:00-09:00,Uniform Fabros
+BSCS 2-4,BSCS 2-4,DCIT 24 - Information Management,Lab,CCL 306,Wednesday,10:00-13:00,Uniform Fabros
+BSCS 2-4,BSCS 2-4,INSY 50 - Fundamentals of Information Systems,Lecture,ITC 401,Monday,10:00-13:00,Whiskey Santiago
+BSCS 2-4,BSCS 2-4,GNED 04 - Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,OS,Wednesday,10:00-13:00,Sample Instructor
+BSCS 2-4,BSCS 2-4,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 404,Friday,07:00-09:00,Sample Instructor
+BSCS 2-5,BSCS 2-5,COSC 55 - Discrete Structures II,Lecture,ITC 504,Wednesday,16:00-19:00,Uniform Fabros
+BSCS 2-5,BSCS 2-5,COSC 60 - Digital Logic Design,Lecture,ITC 505,Tuesday,17:00-19:00,Badger Abad
+BSCS 2-5,BSCS 2-5,COSC 60 - Digital Logic Design,Lab,CCL 305,Wednesday,10:00-13:00,Badger Abad
+BSCS 2-5,BSCS 2-5,DCIT 50 - Object Oriented Programming,Lecture,ITC 501,Wednesday,10:00-12:00,Romeo Aquino
+BSCS 2-5,BSCS 2-5,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Wednesday,07:00-10:00,Romeo Aquino
+BSCS 2-5,BSCS 2-5,DCIT 24 - Information Management,Lecture,ITC 201,Monday,08:00-10:00,Uniform Fabros
+BSCS 2-5,BSCS 2-5,DCIT 24 - Information Management,Lab,CCL 306,Wednesday,07:00-10:00,Uniform Fabros
+BSCS 2-5,BSCS 2-5,INSY 50 - Fundamentals of Information Systems,Lecture,ITC 401,Tuesday,09:00-12:00,Whiskey Santiago
+BSCS 2-5,BSCS 2-5,GNED 04 - Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 503,Wednesday,08:00-11:00,Sample Instructor
+BSCS 2-5,BSCS 2-5,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 401,Saturday,14:00-16:00,Sample Instructor
+BSCS 2-5,BSCS 2-5,MATH 1 - Analytic Geometry,Lecture,ITC 501,Wednesday,07:00-10:00,Sample Instructor
+BSCS 3-1,BSCS 3-1,COSC 75 - Software Engineering II,Lecture,OS,Tuesday,12:00-14:00,Juliet Lopez
+BSCS 3-1,BSCS 3-1,COSC 75 - Software Engineering II,Lab,ITC 408,Wednesday,09:00-12:00,Juliet Lopez
+BSCS 3-1,BSCS 3-1,COSC 80 - Operating Systems,Lecture,ITC 501,Tuesday,07:00-09:00,Juliet Lopez
+BSCS 3-1,BSCS 3-1,COSC 80 - Operating Systems,Lab,CCL 202,Wednesday,10:00-13:00,Cheetah Alcaraz
+BSCS 3-1,BSCS 3-1,COSC 85 - Networks and Communication,Lecture,ITC 401,Friday,16:00-18:00,Zulu Navarro
+BSCS 3-1,BSCS 3-1,COSC 85 - Networks and Communication,Lab,CCL 305,Friday,12:00-15:00,Zulu Navarro
+BSCS 3-1,BSCS 3-1,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lecture,ITC 408,Wednesday,15:00-17:00,Badger Abad
+BSCS 3-1,BSCS 3-1,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lab,CCL 202,Monday,10:00-13:00,Badger Abad
+BSCS 3-1,BSCS 3-1,DCIT 26 - Applications Development and Emerging Technologies,Lecture,ITC 501,Monday,07:00-09:00,Foxtrot Lim
+BSCS 3-1,BSCS 3-1,DCIT 26 - Applications Development and Emerging Technologies,Lab,CCL 303,Wednesday,14:00-17:00,Zulu Navarro
+BSCS 3-1,BSCS 3-1,DCIT 65 - Social and Professional Issues,Lecture,ITC 404,Wednesday,10:00-13:00,Charlie Mendoza
+BSCS 3-1,BSCS 3-1,MATH 3 - Linear Algebra,Lecture,ITC 503,Wednesday,09:00-12:00,Sample Instructor
+BSCS 3-2,BSCS 3-2,COSC 75 - Software Engineering II,Lecture,ITC 404,Tuesday,15:00-17:00,Whiskey Santiago
+BSCS 3-2,BSCS 3-2,COSC 75 - Software Engineering II,Lab,ITC 408,Monday,15:00-18:00,Whiskey Santiago
+BSCS 3-2,BSCS 3-2,COSC 80 - Operating Systems,Lecture,ITC 404,Wednesday,08:00-10:00,Cheetah Alcaraz
+BSCS 3-2,BSCS 3-2,COSC 80 - Operating Systems,Lab,CCL 202,Wednesday,13:00-16:00,Cheetah Alcaraz
+BSCS 3-2,BSCS 3-2,COSC 85 - Networks and Communication,Lecture,ITC 201,Thursday,15:00-17:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,COSC 85 - Networks and Communication,Lab,CCL 305,Wednesday,11:00-14:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lecture,ITC 201,Monday,17:00-19:00,Badger Abad
+BSCS 3-2,BSCS 3-2,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lab,CCL 202,Thursday,15:00-18:00,Badger Abad
+BSCS 3-2,BSCS 3-2,DCIT 26 - Applications Development and Emerging Technologies,Lecture,OS,Thursday,17:00-19:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,DCIT 26 - Applications Development and Emerging Technologies,Lab,CCL 303,Monday,15:00-18:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,DCIT 65 - Social and Professional Issues,Lecture,ITC 404,Thursday,12:00-15:00,Charlie Mendoza
+BSCS 3-2,BSCS 3-2,MATH 3 - Linear Algebra,Lecture,ITC 505,Thursday,07:00-10:00,Sample Instructor
+BSCS 3-3,BSCS 3-3,COSC 75 - Software Engineering II,Lecture,ITC 504,Wednesday,15:00-17:00,Whiskey Santiago
+BSCS 3-3,BSCS 3-3,COSC 75 - Software Engineering II,Lab,ITC 408,Thursday,14:00-17:00,Whiskey Santiago
+BSCS 3-3,BSCS 3-3,COSC 80 - Operating Systems,Lecture,ITC 201,Tuesday,14:00-16:00,Cheetah Alcaraz
+BSCS 3-3,BSCS 3-3,COSC 80 - Operating Systems,Lab,CCL 202,Friday,09:00-12:00,Cheetah Alcaraz
+BSCS 3-3,BSCS 3-3,COSC 85 - Networks and Communication,Lecture,ITC 408,Thursday,12:00-14:00,Zulu Navarro
+BSCS 3-3,BSCS 3-3,COSC 85 - Networks and Communication,Lab,CCL 305,Thursday,07:00-10:00,Koala Garcia
+BSCS 3-3,BSCS 3-3,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lecture,ITC 403,Saturday,11:00-13:00,Sample Instructor
+BSCS 3-3,BSCS 3-3,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lab,CCL 202,Tuesday,11:00-14:00,Sample Instructor
+BSCS 3-3,BSCS 3-3,DCIT 26 - Applications Development and Emerging Technologies,Lecture,ITC 403,Monday,13:00-15:00,Zulu Navarro
+BSCS 3-3,BSCS 3-3,DCIT 26 - Applications Development and Emerging Technologies,Lab,CCL 303,Wednesday,13:00-16:00,Eagle Co
+BSCS 3-3,BSCS 3-3,DCIT 65 - Social and Professional Issues,Lecture,ITC 201,Monday,09:00-12:00,Charlie Mendoza
+BSCS 3-3,BSCS 3-3,MATH 3 - Linear Algebra,Lecture,ITC 402,Monday,11:00-14:00,Sample Instructor
+BSCS 4-1,BSCS 4-1,ITEC 80 - Human Computer Interaction,Lecture,ITC 503,Tuesday,11:00-14:00,Charlie Mendoza
+BSCS 4-1,BSCS 4-1,COSC 100 - Automata Theory and Formal Languages,Lecture,ITC 502,Tuesday,08:00-11:00,Cheetah Alcaraz
+BSCS 4-1,BSCS 4-1,COSC 105 - Intelligent Systems,Lecture,ITC 201,Tuesday,11:00-13:00,Dingo Bautista
+BSCS 4-1,BSCS 4-1,COSC 105 - Intelligent Systems,Lab,CCL 306,Wednesday,15:00-18:00,Dingo Bautista
+BSCS 4-1,BSCS 4-1,COSC 111 - CS Elective 3 (Internet of Things),Lecture,ITC 503,Thursday,08:00-10:00,Panda Rosales
+BSCS 4-1,BSCS 4-1,COSC 111 - CS Elective 3 (Internet of Things),Lab,CCL 102,Thursday,10:00-13:00,Panda Rosales
+BSCS 4-1,BSCS 4-1,COSC 200A - Undergraduate Thesis I,Lecture,ITC 403,Thursday,07:00-08:00,Sample Instructor
+BSCS 4-2,BSCS 4-2,ITEC 80 - Human Computer Interaction,Lecture,ITC 502,Friday,15:00-18:00,Quebec Padilla
+BSCS 4-2,BSCS 4-2,COSC 100 - Automata Theory and Formal Languages,Lecture,ITC 201,Tuesday,11:00-14:00,Cheetah Alcaraz
+BSCS 4-2,BSCS 4-2,COSC 105 - Intelligent Systems,Lecture,ITC 504,Tuesday,16:00-18:00,Dingo Bautista
+BSCS 4-2,BSCS 4-2,COSC 105 - Intelligent Systems,Lab,CCL 306,Tuesday,08:00-11:00,Dingo Bautista
+BSCS 4-2,BSCS 4-2,COSC 111 - CS Elective 3 (Internet of Things),Lecture,OS,Tuesday,08:00-10:00,Panda Rosales
+BSCS 4-2,BSCS 4-2,COSC 111 - CS Elective 3 (Internet of Things),Lab,CCL 102,Tuesday,11:00-14:00,Panda Rosales
+BSCS 4-2,BSCS 4-2,COSC 200A - Undergraduate Thesis I,Lecture,ITC 504,Tuesday,10:00-11:00,Sample Instructor
+BSCS 4-3,BSCS 4-3,ITEC 80 - Human Computer Interaction,Lecture,ITC 403,Thursday,11:00-14:00,Quebec Padilla
+BSCS 4-3,BSCS 4-3,COSC 100 - Automata Theory and Formal Languages,Lecture,ITC 503,Wednesday,16:00-19:00,Cheetah Alcaraz
+BSCS 4-3,BSCS 4-3,COSC 105 - Intelligent Systems,Lecture,ITC 504,Tuesday,14:00-16:00,Dingo Bautista
+BSCS 4-3,BSCS 4-3,COSC 105 - Intelligent Systems,Lab,CCL 306,Thursday,16:00-19:00,Dingo Bautista
+BSCS 4-3,BSCS 4-3,COSC 111 - CS Elective 3 (Internet of Things),Lecture,ITC 505,Friday,11:00-13:00,Panda Rosales
+BSCS 4-3,BSCS 4-3,COSC 111 - CS Elective 3 (Internet of Things),Lab,CCL 102,Friday,08:00-11:00,Panda Rosales
+BSCS 4-3,BSCS 4-3,COSC 200A - Undergraduate Thesis I,Lecture,ITC 505,Friday,12:00-13:00,Sample Instructor
+BSIT 1-1,BSIT 1-1,COSC 50 - Discrete Structures I,Lecture,ITC 201,Thursday,12:00-15:00,Tango Rosales
+BSIT 1-1,BSIT 1-1,DCIT 21 - Introduction to Computing,Lecture,ITC 201,Tuesday,07:00-09:00,Quebec Padilla
+BSIT 1-1,BSIT 1-1,DCIT 21 - Introduction to Computing,Lab,CCL 402,Monday,15:00-18:00,Quebec Padilla
+BSIT 1-1,BSIT 1-1,DCIT 22 - Computer Programming 1,Lecture,ITC 408,Monday,08:00-09:00,Delta Chua
+BSIT 1-1,BSIT 1-1,CVSU 101 - Institutional Orientation,Lecture,ITC 408,Monday,12:00-13:00,Lima Salazar
+BSIT 1-1,BSIT 1-1,GNED 02 - Ethics,Lecture,OS,Wednesday,13:00-16:00,Sample Instructor
+BSIT 1-1,BSIT 1-1,GNED 05 - Purposive Communication,Lecture,ITC 505,Wednesday,13:00-16:00,Sample Instructor
+BSIT 1-1,BSIT 1-1,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 401,Tuesday,08:00-11:00,Sample Instructor
+BSIT 1-1,BSIT 1-1,FITT 1 - Movement Enhancement,Lecture,ITC 408,Saturday,12:00-14:00,Sample Instructor
+BSIT 1-1,BSIT 1-1,NSTP 1 - National Service Training Program 1,Lecture,ITC 201,Friday,10:00-13:00,Sample Instructor
+BSIT 1-2,BSIT 1-2,COSC 50 - Discrete Structures I,Lecture,ITC 502,Monday,13:00-16:00,Tango Rosales
+BSIT 1-2,BSIT 1-2,DCIT 21 - Introduction to Computing,Lecture,ITC 403,Monday,07:00-09:00,Quebec Padilla
+BSIT 1-2,BSIT 1-2,DCIT 21 - Introduction to Computing,Lab,CCL 402,Wednesday,08:00-11:00,Quebec Padilla
+BSIT 1-2,BSIT 1-2,DCIT 22 - Computer Programming 1,Lecture,ITC 403,Thursday,12:00-13:00,Delta Chua
+BSIT 1-2,BSIT 1-2,CVSU 101 - Institutional Orientation,Lecture,ITC 501,Monday,11:00-12:00,Lima Salazar
+BSIT 1-2,BSIT 1-2,GNED 02 - Ethics,Lecture,ITC 402,Wednesday,10:00-13:00,Sample Instructor
+BSIT 1-2,BSIT 1-2,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 504,Tuesday,09:00-12:00,Sample Instructor
+BSIT 1-2,BSIT 1-2,FITT 1 - Movement Enhancement,Lecture,ITC 402,Friday,08:00-10:00,Sample Instructor
+BSIT 1-2,BSIT 1-2,NSTP 1 - National Service Training Program 1,Lecture,ITC 505,Saturday,11:00-14:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,COSC 50 - Discrete Structures I,Lecture,ITC 201,Wednesday,07:00-10:00,Tango Rosales
+BSIT 1-3,BSIT 1-3,DCIT 21 - Introduction to Computing,Lecture,ITC 501,Wednesday,17:00-19:00,Quebec Padilla
+BSIT 1-3,BSIT 1-3,DCIT 21 - Introduction to Computing,Lab,CCL 402,Tuesday,11:00-14:00,Quebec Padilla
+BSIT 1-3,BSIT 1-3,DCIT 22 - Computer Programming 1,Lecture,ITC 201,Tuesday,10:00-11:00,Delta Chua
+BSIT 1-3,BSIT 1-3,CVSU 101 - Institutional Orientation,Lecture,ITC 505,Tuesday,14:00-15:00,Lima Salazar
+BSIT 1-3,BSIT 1-3,GNED 02 - Ethics,Lecture,ITC 501,Wednesday,12:00-15:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,GNED 05 - Purposive Communication,Lecture,ITC 503,Wednesday,10:00-13:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,OS,Wednesday,11:00-14:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,FITT 1 - Movement Enhancement,Lecture,ITC 408,Saturday,08:00-10:00,Sample Instructor
+BSIT 1-3,BSIT 1-3,NSTP 1 - National Service Training Program 1,Lecture,ITC 402,Friday,13:00-16:00,Sample Instructor
+BSIT 1-4,BSIT 1-4,COSC 50 - Discrete Structures I,Lecture,ITC 408,Monday,10:00-13:00,Tango Rosales
+BSIT 1-4,BSIT 1-4,DCIT 21 - Introduction to Computing,Lecture,ITC 503,Monday,09:00-11:00,Quebec Padilla
+BSIT 1-4,BSIT 1-4,DCIT 21 - Introduction to Computing,Lab,CCL 402,Tuesday,16:00-19:00,Sierra Ignacio
+BSIT 1-4,BSIT 1-4,DCIT 22 - Computer Programming 1,Lecture,ITC 505,Wednesday,09:00-10:00,Echo Gonzales
+BSIT 1-4,BSIT 1-4,CVSU 101 - Institutional Orientation,Lecture,ITC 503,Wednesday,13:00-14:00,Lima Salazar
+BSIT 1-4,BSIT 1-4,GNED 02 - Ethics,Lecture,ITC 408,Wednesday,08:00-11:00,Sample Instructor
+BSIT 1-4,BSIT 1-4,GNED 05 - Purposive Communication,Lecture,ITC 404,Monday,12:00-15:00,Sample Instructor
+BSIT 1-4,BSIT 1-4,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 503,Thursday,07:00-10:00,Sample Instructor
+BSIT 1-4,BSIT 1-4,FITT 1 - Movement Enhancement,Lecture,ITC 501,Saturday,12:00-14:00,Sample Instructor
+BSIT 1-4,BSIT 1-4,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Friday,09:00-12:00,Sample Instructor
+BSIT 1-5,BSIT 1-5,COSC 50 - Discrete Structures I,Lecture,ITC 403,Tuesday,11:00-14:00,Tango Rosales
+BSIT 1-5,BSIT 1-5,DCIT 21 - Introduction to Computing,Lecture,ITC 201,Tuesday,08:00-10:00,Sierra Ignacio
+BSIT 1-5,BSIT 1-5,DCIT 21 - Introduction to Computing,Lab,CCL 402,Thursday,16:00-19:00,Sierra Ignacio
+BSIT 1-5,BSIT 1-5,DCIT 22 - Computer Programming 1,Lecture,ITC 502,Tuesday,07:00-08:00,Echo Gonzales
+BSIT 1-5,BSIT 1-5,CVSU 101 - Institutional Orientation,Lecture,ITC 505,Monday,07:00-08:00,Lima Salazar
+BSIT 1-5,BSIT 1-5,GNED 02 - Ethics,Lecture,ITC 401,Thursday,09:00-12:00,Sample Instructor
+BSIT 1-5,BSIT 1-5,GNED 05 - Purposive Communication,Lecture,ITC 502,Tuesday,10:00-13:00,Sample Instructor
+BSIT 1-5,BSIT 1-5,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 201,Tuesday,07:00-10:00,Sample Instructor
+BSIT 1-5,BSIT 1-5,FITT 1 - Movement Enhancement,Lecture,ITC 501,Friday,14:00-16:00,Sample Instructor
+BSIT 1-5,BSIT 1-5,NSTP 1 - National Service Training Program 1,Lecture,ITC 502,Friday,11:00-14:00,Sample Instructor
+BSIT 1-6,BSIT 1-6,COSC 50 - Discrete Structures I,Lecture,ITC 504,Monday,16:00-19:00,Tango Rosales
+BSIT 1-6,BSIT 1-6,DCIT 21 - Introduction to Computing,Lecture,ITC 408,Monday,11:00-13:00,Sierra Ignacio
+BSIT 1-6,BSIT 1-6,DCIT 21 - Introduction to Computing,Lab,CCL 402,Monday,16:00-19:00,Sierra Ignacio
+BSIT 1-6,BSIT 1-6,DCIT 22 - Computer Programming 1,Lecture,ITC 401,Wednesday,15:00-16:00,Echo Gonzales
+BSIT 1-6,BSIT 1-6,CVSU 101 - Institutional Orientation,Lecture,ITC 502,Tuesday,17:00-18:00,Lima Salazar
+BSIT 1-6,BSIT 1-6,GNED 02 - Ethics,Lecture,ITC 504,Thursday,08:00-11:00,Sample Instructor
+BSIT 1-6,BSIT 1-6,GNED 05 - Purposive Communication,Lecture,ITC 501,Monday,11:00-14:00,Sample Instructor
+BSIT 1-6,BSIT 1-6,FITT 1 - Movement Enhancement,Lecture,ITC 505,Saturday,10:00-12:00,Sample Instructor
+BSIT 1-6,BSIT 1-6,NSTP 1 - National Service Training Program 1,Lecture,OS,Saturday,10:00-13:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,COSC 50 - Discrete Structures I,Lecture,ITC 502,Tuesday,07:00-10:00,Tango Rosales
+BSIT 1-7,BSIT 1-7,DCIT 21 - Introduction to Computing,Lecture,ITC 403,Thursday,14:00-16:00,Sierra Ignacio
+BSIT 1-7,BSIT 1-7,DCIT 21 - Introduction to Computing,Lab,CCL 402,Wednesday,11:00-14:00,Sierra Ignacio
+BSIT 1-7,BSIT 1-7,DCIT 22 - Computer Programming 1,Lecture,ITC 402,Thursday,12:00-13:00,Echo Gonzales
+BSIT 1-7,BSIT 1-7,CVSU 101 - Institutional Orientation,Lecture,ITC 201,Monday,10:00-11:00,Lima Salazar
+BSIT 1-7,BSIT 1-7,GNED 02 - Ethics,Lecture,OS,Monday,11:00-14:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,GNED 11 - Kontekstwalisadong Komunikasyon sa Filipino,Lecture,ITC 501,Wednesday,08:00-11:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,FITT 1 - Movement Enhancement,Lecture,ITC 201,Friday,10:00-12:00,Sample Instructor
+BSIT 1-7,BSIT 1-7,NSTP 1 - National Service Training Program 1,Lecture,ITC 503,Friday,11:00-14:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,ITEC 55 - Platform Techniques,Lecture,OS,Thursday,09:00-11:00,Tango Rosales
+BSIT 2-1,BSIT 2-1,DCIT 24 - Information Management,Lecture,OS,Wednesday,14:00-16:00,Uniform Fabros
+BSIT 2-1,BSIT 2-1,DCIT 50 - Object Oriented Programming,Lecture,OS,Tuesday,16:00-18:00,Cheetah Alcaraz
+BSIT 2-1,BSIT 2-1,GNED 07 - The Contemporary World,Lecture,OS,Monday,12:00-15:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,GNED 10 - Gender and Society,Lecture,ITC 502,Thursday,12:00-15:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,GNED 14 - Panitikang Panlipunan,Lecture,ITC 201,Wednesday,09:00-12:00,Sample Instructor
+BSIT 2-1,BSIT 2-1,FITT 3 - Physical Activities towards Health and Fitness I,Lecture,ITC 404,Friday,09:00-11:00,Sample Instructor
+BSIT 2-2,BSIT 2-2,ITEC 55 - Platform Techniques,Lecture,ITC 201,Tuesday,15:00-17:00,Tango Rosales
+BSIT 2-2,BSIT 2-2,DCIT 24 - Information Management,Lecture,ITC 408,Wednesday,08:00-10:00,Falcon Cruz
+BSIT 2-2,BSIT 2-2,DCIT 50 - Object Oriented Programming,Lecture,ITC 502,Thursday,09:00-11:00,Cheetah Alcaraz
+BSIT 2-2,BSIT 2-2,GNED 04 - Mga Basahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 408,Wednesday,12:00-15:00,Sample Instructor
+BSIT 2-2,BSIT 2-2,GNED 07 - The Contemporary World,Lecture,ITC 504,Thursday,11:00-14:00,Sample Instructor
+BSIT 2-2,BSIT 2-2,GNED 10 - Gender and Society,Lecture,ITC 408,Tuesday,11:00-14:00,Sample Instructor
+BSIT 2-2,BSIT 2-2,FITT 3 - Physical Activities towards Health and Fitness I,Lecture,ITC 401,Saturday,08:00-10:00,Sample Instructor
+BSIT 2-3,BSIT 2-3,ITEC 55 - Platform Techniques,Lecture,ITC 501,Wednesday,14:00-16:00,Tango Rosales
+BSIT 2-3,BSIT 2-3,DCIT 24 - Information Management,Lecture,ITC 501,Monday,10:00-12:00,Falcon Cruz
+BSIT 2-3,BSIT 2-3,DCIT 50 - Object Oriented Programming,Lecture,ITC 201,Thursday,17:00-19:00,Cheetah Alcaraz
+BSIT 2-3,BSIT 2-3,GNED 07 - The Contemporary World,Lecture,ITC 408,Wednesday,13:00-16:00,Sample Instructor
+BSIT 2-3,BSIT 2-3,GNED 14 - Panitikang Panlipunan,Lecture,ITC 403,Monday,07:00-10:00,Sample Instructor
+BSIT 2-3,BSIT 2-3,FITT 3 - Physical Activities towards Health and Fitness I,Lecture,ITC 502,Friday,13:00-15:00,Sample Instructor
+BSIT 2-4,BSIT 2-4,ITEC 55 - Platform Techniques,Lecture,ITC 502,Thursday,17:00-19:00,Tango Rosales
+BSIT 2-4,BSIT 2-4,DCIT 24 - Information Management,Lecture,ITC 502,Monday,07:00-09:00,Falcon Cruz
+BSIT 2-4,BSIT 2-4,DCIT 50 - Object Oriented Programming,Lecture,ITC 505,Thursday,07:00-09:00,Cheetah Alcaraz
+BSIT 2-4,BSIT 2-4,GNED 10 - Gender and Society,Lecture,ITC 201,Tuesday,12:00-15:00,Sample Instructor
+BSIT 2-4,BSIT 2-4,GNED 14 - Panitikang Panlipunan,Lecture,ITC 502,Wednesday,13:00-16:00,Sample Instructor
+BSIT 2-5,BSIT 2-5,ITEC 55 - Platform Techniques,Lecture,ITC 408,Monday,07:00-09:00,Tango Rosales
+BSIT 2-5,BSIT 2-5,DCIT 24 - Information Management,Lecture,ITC 402,Monday,13:00-15:00,Falcon Cruz
+BSIT 2-5,BSIT 2-5,DCIT 50 - Object Oriented Programming,Lecture,ITC 201,Thursday,13:00-15:00,Cheetah Alcaraz
+BSIT 2-5,BSIT 2-5,GNED 04 - Mga Basahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 403,Tuesday,10:00-13:00,Sample Instructor
+BSIT 2-5,BSIT 2-5,GNED 07 - The Contemporary World,Lecture,ITC 505,Monday,10:00-13:00,Sample Instructor
+BSIT 2-5,BSIT 2-5,GNED 10 - Gender and Society,Lecture,ITC 505,Tuesday,11:00-14:00,Sample Instructor
+BSIT 2-5,BSIT 2-5,GNED 14 - Panitikang Panlipunan,Lecture,ITC 502,Wednesday,09:00-12:00,Sample Instructor
+BSIT 2-5,BSIT 2-5,FITT 3 - Physical Activities towards Health and Fitness I,Lecture,ITC 402,Friday,14:00-16:00,Sample Instructor
+BSIT 3-1,BSIT 3-1,ITEC 80 - Introduction to Human Computer Interaction,Lecture,ITC 504,Thursday,08:00-10:00,Charlie Mendoza
+BSIT 3-1,BSIT 3-1,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 401,Friday,15:00-18:00,Dingo Bautista
+BSIT 3-1,BSIT 3-1,ITEC 85 - Information Assurance and Security I,Lecture,ITC 504,Tuesday,13:00-15:00,Sierra Ignacio
+BSIT 3-1,BSIT 3-1,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Thursday,08:00-11:00,Sierra Ignacio
+BSIT 3-1,BSIT 3-1,ITEC 90 - Network Fundamentals,Lecture,OS,Friday,08:00-10:00,Romeo Aquino
+BSIT 3-1,BSIT 3-1,ITEC 90 - Network Fundamentals,Lab,CCL 305,Monday,12:00-15:00,Sample Instructor
+BSIT 3-1,BSIT 3-1,INSY 55 - System Analysis and Design,Lecture,ITC 401,Wednesday,09:00-11:00,Alpha Reyes
+BSIT 3-1,BSIT 3-1,INSY 55 - System Analysis and Design,Lab,OS,Monday,10:00-13:00,Alpha Reyes
+BSIT 3-1,BSIT 3-1,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 501,Wednesday,08:00-10:00,Eagle Co
+BSIT 3-1,BSIT 3-1,DCIT 60 - Methods of Research,Lecture,ITC 401,Wednesday,11:00-14:00,Alpha Reyes
+BSIT 3-2,BSIT 3-2,ITEC 80 - Introduction to Human Computer Interaction,Lecture,ITC 408,Friday,08:00-10:00,Dingo Bautista
+BSIT 3-2,BSIT 3-2,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 502,Monday,15:00-18:00,Dingo Bautista
+BSIT 3-2,BSIT 3-2,ITEC 85 - Information Assurance and Security I,Lecture,ITC 403,Wednesday,16:00-18:00,Sierra Ignacio
+BSIT 3-2,BSIT 3-2,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Thursday,11:00-14:00,Sierra Ignacio
+BSIT 3-2,BSIT 3-2,ITEC 90 - Network Fundamentals,Lecture,ITC 504,Friday,10:00-12:00,Romeo Aquino
+BSIT 3-2,BSIT 3-2,ITEC 90 - Network Fundamentals,Lab,CCL 305,Monday,13:00-16:00,Sample Instructor
+BSIT 3-2,BSIT 3-2,INSY 55 - System Analysis and Design,Lecture,ITC 404,Thursday,08:00-10:00,Alpha Reyes
+BSIT 3-2,BSIT 3-2,INSY 55 - System Analysis and Design,Lab,OS,Thursday,12:00-15:00,Alpha Reyes
+BSIT 3-2,BSIT 3-2,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 201,Tuesday,09:00-11:00,Eagle Co
+BSIT 3-2,BSIT 3-2,DCIT 60 - Methods of Research,Lecture,ITC 503,Tuesday,12:00-15:00,Alpha Reyes
+BSIT 3-3,BSIT 3-3,ITEC 80 - Introduction to Human Computer Interaction,Lecture,ITC 408,Wednesday,10:00-12:00,Dingo Bautista
+BSIT 3-3,BSIT 3-3,ITEC 80 - Introduction to Human Computer Interaction,Lab,ITC 401,Wednesday,12:00-15:00,Dingo Bautista
+BSIT 3-3,BSIT 3-3,ITEC 85 - Information Assurance and Security I,Lecture,ITC 504,Monday,09:00-11:00,Sierra Ignacio
+BSIT 3-3,BSIT 3-3,ITEC 85 - Information Assurance and Security I,Lab,CCL 202,Wednesday,16:00-19:00,Eagle Co
+BSIT 3-3,BSIT 3-3,ITEC 90 - Network Fundamentals,Lecture,OS,Wednesday,11:00-13:00,Sample Instructor
+BSIT 3-3,BSIT 3-3,INSY 55 - System Analysis and Design,Lecture,ITC 401,Wednesday,14:00-16:00,Alpha Reyes
+BSIT 3-3,BSIT 3-3,INSY 55 - System Analysis and Design,Lab,ITC 408,Tuesday,09:00-12:00,Sample Instructor
+BSIT 3-3,BSIT 3-3,DCIT 26 - Application Development and Emerging Technologies,Lecture,ITC 408,Thursday,10:00-12:00,Eagle Co
+BSIT 3-3,BSIT 3-3,DCIT 60 - Methods of Research,Lecture,ITC 404,Monday,07:00-10:00,Echo Gonzales
+BSIT 4-1,BSIT 4-1,DCIT 65 - Social and Professional Issues,Lecture,ITC 503,Saturday,09:00-12:00,Whiskey Santiago
+BSIT 4-1,BSIT 4-1,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lecture,ITC 504,Monday,08:00-10:00,Whiskey Santiago
+BSIT 4-1,BSIT 4-1,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lab,CCL 102,Friday,09:00-12:00,Otter Ramos
+BSIT 4-1,BSIT 4-1,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lecture,ITC 504,Wednesday,16:00-18:00,Golf Ocampo
+BSIT 4-1,BSIT 4-1,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lab,CCL 305,Monday,11:00-14:00,Golf Ocampo
+BSIT 4-1,BSIT 4-1,ITEC 110 - Systems Administration and Maintenance,Lecture,ITC 403,Friday,07:00-09:00,Otter Ramos
+BSIT 4-1,BSIT 4-1,ITEC 110 - Systems Administration and Maintenance,Lab,CCL 202,Monday,09:00-12:00,Otter Ramos
+BSIT 4-2,BSIT 4-2,DCIT 65 - Social and Professional Issues,Lecture,OS,Friday,11:00-14:00,Sample Instructor
+BSIT 4-2,BSIT 4-2,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lecture,ITC 402,Friday,16:00-18:00,Whiskey Santiago
+BSIT 4-2,BSIT 4-2,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lab,CCL 102,Wednesday,09:00-12:00,Otter Ramos
+BSIT 4-2,BSIT 4-2,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lecture,ITC 503,Wednesday,11:00-13:00,Golf Ocampo
+BSIT 4-2,BSIT 4-2,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lab,CCL 305,Wednesday,13:00-16:00,Golf Ocampo
+BSIT 4-2,BSIT 4-2,ITEC 110 - Systems Administration and Maintenance,Lecture,ITC 503,Tuesday,10:00-12:00,Otter Ramos
+BSIT 4-2,BSIT 4-2,ITEC 110 - Systems Administration and Maintenance,Lab,CCL 202,Tuesday,07:00-10:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,DCIT 65 - Social and Professional Issues,Lecture,ITC 403,Thursday,10:00-13:00,Sample Instructor
+BSIT 4-3,BSIT 4-3,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lecture,ITC 505,Thursday,11:00-13:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,ITEC 111 - IT Elective 3 (Integrated Programming and Technologies 2),Lab,CCL 102,Thursday,08:00-11:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lecture,ITC 408,Monday,16:00-18:00,Golf Ocampo
+BSIT 4-3,BSIT 4-3,ITEC 116 - IT Elective 4 (Systems Integration and Architechture 2),Lab,CCL 305,Friday,07:00-10:00,Xray Alcaraz
+BSIT 4-3,BSIT 4-3,ITEC 110 - Systems Administration and Maintenance,Lecture,ITC 504,Wednesday,07:00-09:00,Otter Ramos
+BSIT 4-3,BSIT 4-3,ITEC 110 - Systems Administration and Maintenance,Lab,CCL 202,Tuesday,13:00-16:00,Sample Instructor

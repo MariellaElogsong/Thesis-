@@ -1,12 +1,12 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSCS 2-1,BSCS 2-1,COSC 55 - Discrete Structures II,Lecture,ITC 504,Tuesday,14:00-17:00,Uniform Fabros
-BSCS 2-1,BSCS 2-1,COSC 60 - Digital Logic Design,Lecture,ITC 504,Tuesday,07:00-09:00,Oscar Manalo
-BSCS 2-1,BSCS 2-1,COSC 60 - Digital Logic Design,Lab,CCL 305,Tuesday,12:00-15:00,Badger Abad
-BSCS 2-1,BSCS 2-1,DCIT 50 - Object Oriented Programming,Lecture,ITC 201,Monday,11:00-13:00,Hotel Rivera
-BSCS 2-1,BSCS 2-1,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Thursday,09:00-12:00,Hotel Rivera
-BSCS 2-1,BSCS 2-1,DCIT 24 - Information Management,Lecture,OS,Tuesday,07:00-09:00,Bravo Santos
-BSCS 2-1,BSCS 2-1,DCIT 24 - Information Management,Lab,CCL 306,Monday,12:00-15:00,Bravo Santos
-BSCS 2-1,BSCS 2-1,INSY 50 - Fundamentals of Information Systems,Lecture,ITC 503,Wednesday,07:00-10:00,Papa Velasco
-BSCS 2-1,BSCS 2-1,GNED 04 - Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 505,Tuesday,11:00-14:00,Sample Instructor
-BSCS 2-1,BSCS 2-1,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 201,Friday,07:00-09:00,Sample Instructor
-BSCS 2-1,BSCS 2-1,MATH 1 - Analytic Geometry,Lecture,ITC 503,Wednesday,09:00-12:00,Sample Instructor
+BSCS 2-1,BSCS 2-1,COSC 55 - Discrete Structures II,Lecture,ITC 408,Tuesday,16:00-19:00,Uniform Fabros
+BSCS 2-1,BSCS 2-1,COSC 60 - Digital Logic Design,Lecture,ITC 501,Thursday,10:00-12:00,Oscar Manalo
+BSCS 2-1,BSCS 2-1,COSC 60 - Digital Logic Design,Lab,CCL 305,Tuesday,13:00-16:00,Badger Abad
+BSCS 2-1,BSCS 2-1,DCIT 50 - Object Oriented Programming,Lecture,ITC 402,Wednesday,14:00-16:00,Hotel Rivera
+BSCS 2-1,BSCS 2-1,DCIT 50 - Object Oriented Programming,Lab,CCL 303,Monday,11:00-14:00,Hotel Rivera
+BSCS 2-1,BSCS 2-1,DCIT 24 - Information Management,Lecture,ITC 408,Monday,08:00-10:00,Bravo Santos
+BSCS 2-1,BSCS 2-1,DCIT 24 - Information Management,Lab,CCL 306,Tuesday,11:00-14:00,Bravo Santos
+BSCS 2-1,BSCS 2-1,INSY 50 - Fundamentals of Information Systems,Lecture,ITC 501,Thursday,07:00-10:00,Papa Velasco
+BSCS 2-1,BSCS 2-1,GNED 04 - Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas,Lecture,ITC 408,Monday,11:00-14:00,Sample Instructor
+BSCS 2-1,BSCS 2-1,FITT 3 - Physical Activities towards Health and Fitness 1,Lecture,ITC 404,Friday,11:00-13:00,Sample Instructor
+BSCS 2-1,BSCS 2-1,MATH 1 - Analytic Geometry,Lecture,OS,Thursday,11:00-14:00,Sample Instructor

@@ -173,14 +173,14 @@
                 alert('Please select a CSV file to upload.');
                 return;
             }
-            // Check all selected files
             for (let i = 0; i < files.length; i++) {
                 if (!allowedNames.includes(files[i].name)) {
                     e.preventDefault();
-                    alert('Only instructor.csv, courses.csv, minorcourses.csv, and rooms.csv are allowed.');
+                    alert('Only instructors.csv, courses.csv, minorcourses.csv, and rooms.csv are allowed.');
                     return;
                 }
             }
+            // Only prevent default to show modal, not on modalOk
             e.preventDefault();
             confirmModal.style.display = 'flex';
         });
@@ -191,6 +191,7 @@
 
         modalOk.addEventListener('click', function () {
             confirmModal.style.display = 'none';
+            // Actually submit the form now
             form.submit();
         });
     });

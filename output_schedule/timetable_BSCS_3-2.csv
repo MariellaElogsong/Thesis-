@@ -1,13 +1,13 @@
 YearLevel,Section,Course,Session,Room,Day,Time,Instructor
-BSCS 3-2,BSCS 3-2,COSC 75 - Software Engineering II,Lecture,ITC 402,Friday,16:00-18:00,Whiskey Santiago
-BSCS 3-2,BSCS 3-2,COSC 75 - Software Engineering II,Lab,ITC 408,Monday,12:00-15:00,Whiskey Santiago
-BSCS 3-2,BSCS 3-2,COSC 80 - Operating Systems,Lecture,ITC 501,Tuesday,14:00-16:00,Cheetah Alcaraz
-BSCS 3-2,BSCS 3-2,COSC 80 - Operating Systems,Lab,CCL 202,Friday,09:00-12:00,Cheetah Alcaraz
-BSCS 3-2,BSCS 3-2,COSC 85 - Networks and Communication,Lecture,ITC 502,Thursday,15:00-17:00,Zulu Navarro
-BSCS 3-2,BSCS 3-2,COSC 85 - Networks and Communication,Lab,CCL 305,Wednesday,14:00-17:00,Zulu Navarro
-BSCS 3-2,BSCS 3-2,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lecture,ITC 201,Thursday,10:00-12:00,Badger Abad
-BSCS 3-2,BSCS 3-2,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lab,CCL 202,Monday,07:00-10:00,Badger Abad
-BSCS 3-2,BSCS 3-2,DCIT 26 - Applications Development and Emerging Technologies,Lecture,ITC 403,Thursday,12:00-14:00,Zulu Navarro
-BSCS 3-2,BSCS 3-2,DCIT 26 - Applications Development and Emerging Technologies,Lab,CCL 303,Friday,16:00-19:00,Zulu Navarro
-BSCS 3-2,BSCS 3-2,DCIT 65 - Social and Professional Issues,Lecture,ITC 201,Monday,12:00-15:00,Charlie Mendoza
-BSCS 3-2,BSCS 3-2,MATH 3 - Linear Algebra,Lecture,ITC 402,Friday,07:00-10:00,Sample Instructor
+BSCS 3-2,BSCS 3-2,COSC 75 - Software Engineering II,Lecture,ITC 404,Tuesday,15:00-17:00,Whiskey Santiago
+BSCS 3-2,BSCS 3-2,COSC 75 - Software Engineering II,Lab,ITC 408,Monday,15:00-18:00,Whiskey Santiago
+BSCS 3-2,BSCS 3-2,COSC 80 - Operating Systems,Lecture,ITC 404,Wednesday,08:00-10:00,Cheetah Alcaraz
+BSCS 3-2,BSCS 3-2,COSC 80 - Operating Systems,Lab,CCL 202,Wednesday,13:00-16:00,Cheetah Alcaraz
+BSCS 3-2,BSCS 3-2,COSC 85 - Networks and Communication,Lecture,ITC 201,Thursday,15:00-17:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,COSC 85 - Networks and Communication,Lab,CCL 305,Wednesday,11:00-14:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lecture,ITC 201,Monday,17:00-19:00,Badger Abad
+BSCS 3-2,BSCS 3-2,COSC 101 - CS Elective 1 (Computer Graphics and Visual Computing),Lab,CCL 202,Thursday,15:00-18:00,Badger Abad
+BSCS 3-2,BSCS 3-2,DCIT 26 - Applications Development and Emerging Technologies,Lecture,OS,Thursday,17:00-19:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,DCIT 26 - Applications Development and Emerging Technologies,Lab,CCL 303,Monday,15:00-18:00,Zulu Navarro
+BSCS 3-2,BSCS 3-2,DCIT 65 - Social and Professional Issues,Lecture,ITC 404,Thursday,12:00-15:00,Charlie Mendoza
+BSCS 3-2,BSCS 3-2,MATH 3 - Linear Algebra,Lecture,ITC 505,Thursday,07:00-10:00,Sample Instructor
